@@ -1,0 +1,100 @@
+/* ===== Carousel Base Styles ===== */
+#score-carousel {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.gradient-bg {
+  background: linear-gradient(to bottom right, #20082e, #3a1a5d);
+  color: white;
+}
+
+/* Slide 1 */
+#score-carousel .text-slide {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#score-carousel .text-slide .carousel-caption {
+  position: static;
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#score-carousel .text-slide h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+#score-carousel .text-slide p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+#score-carousel .text-slide .btn {
+  min-width: 160px;
+}
+
+/* Slide 2: Split layout */
+#score-carousel .split-slide {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+#score-carousel .split-text {
+  flex: 1 1 50%;
+  padding: 40px;
+  color: white;
+}
+
+#score-carousel .split-text h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+#score-carousel .split-text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+#score-carousel .split-image {
+  flex: 1 1 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+#score-carousel .split-image img {
+  max-height: 400px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+/* Controls */
+.carousel-control-prev,
+.carousel-control-next {
+  filter: invert(100%);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  #score-carousel .split-slide {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  #score-carousel .split-text,
+  #score-carousel .split-image {
+    flex: 1 1 100%;
+  }
+}
