@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=4, user-scalable=yes"
+    />
+
+    <meta charset="utf-8" />
+    <title>S-CORE</title>
+    <meta
+      name="description"
+      content="From Proprietary To Open Source The industry has long tackled software challenges independently – often duplicating efforts and building closed, incompatible systems."
+    />
+    <link rel="icon" href="images/icons/favicon.ico" type="image/x-icon" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/loading.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css"
+    />
+
+    <link rel="stylesheet" href="css/navbar.css" />
+    <link rel="stylesheet" href="css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/globals.css" />
+    <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="css/styleguide.css" />
+    <link rel="stylesheet" href="css/campus.css" />
+  </head>
+  <body>
+    <header class="main-pages-header campus-page-header w-100">
+      <nav
+        class="navbar navbar-expand-xl navbar-light bg-light frame w-100"
+        style="min-height: 64px"
+      >
+        <div class="container px-3">
+          <div class="navbar-content">
+            <a
+              class="navbar-brand d-flex align-items-center logo"
+              href="index.html"
+            >
+              <div class="logo-icon me-0">
+                <img class="logo-text" src="images/icons/logo.svg" alt="Logo" />
+              </div>
+              <span class="logo-title h1 mb-0 fw-semibold">S-CORE</span>
+            </a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0 navigation-links">
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="news.html"
+                    >News/Events</a
+                  >
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link active" href="training-modules.html"
+                    >Campus</a
+                  >
+                  <div
+                    class="active-indicator d-none d-lg-block"
+                    aria-hidden="true"
+                  ></div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about-us.html">About us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="docs.html">Docs</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">How To Contribute</a>
+                </li>
+              </ul>
+              <div
+                class="search-form-container d-flex align-items-center gap-2"
+              >
+                <form class="d-flex search-form" role="search">
+                  <label for="site-search" class="visually-hidden"
+                    >Search This Site</label
+                  >
+                  <input
+                    class="form-control me-2"
+                    type="search"
+                    id="site-search"
+                    placeholder="Search This Site"
+                    aria-label="Search"
+                  />
+                  <button
+                    class="btn btn-outline-secondary btn-search"
+                    type="submit"
+                    aria-label="Search"
+                  >
+                    <img
+                      src="images/icons/search-normal.svg"
+                      alt=""
+                      class="search-icon"
+                    />
+                  </button>
+                </form>
+                <a
+                  href="#"
+                  class="github-link ms-2"
+                  aria-label="Visit our GitHub"
+                >
+                  <div class="github-icon" aria-hidden="true">
+                    <img
+                      src="images/icons/github.svg"
+                      alt="GitHub Icon"
+                      class="img-fluid"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <section
+        class="pages-header-content w-100 flex-grow-1 d-flex align-items-end py-5"
+      >
+        <div class="container">
+          <div class="pages-title">
+            <h2 class="h2 text-white">Campus</h2>
+          </div>
+          <div class="bredcrumb-container">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item">
+                  <a href="index.html" class="breadcrumb-link text-white"
+                    >Home</a
+                  >
+                </li>
+                <li class="breadcrumb-item">
+                  <a
+                    href="training-modules.html"
+                    class="breadcrumb-link text-white"
+                    >Campus</a
+                  >
+                </li>
+                <li
+                  class="breadcrumb-item active text-white"
+                  aria-current="page"
+                >
+                  Training Modules
+                </li>
+              </ol>
+            </nav>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main class="main-section p-0 d-flex flex-column">
+      <section class="esc-pages-section nav-tabs-section">
+        <div class="container">
+          <div class="nav-tabs-wrapper">
+            <ul class="nav nav-tabs">
+              <li class="nav-item">
+                <a class="nav-link active" href="training-modules.html"
+                  >Training Modules</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="reference-implementation.html"
+                  >Reference Implementation</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Samples & Demos</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="esc-section esc-training-modules-container-section">
+        <div class="container">
+          <div class="row w-100 g-4">
+            <div class="col-12 col-xl-6">
+              <div class="training-modules-item-content">
+                <h2 class="h2 mb-3 fw-semibold text-capitalize">
+                  Introduction to the S-CORE Stack
+                </h2>
+                <p class="mb-2 main-desc">
+                  Explore our comprehensive training materials﻿ to enhance your
+                  skills.
+                </p>
+                <p class="mb-2 main-desc">
+                  <strong class="fw-semibold">Get started </strong> with the
+                  fundamentals of S-CORE.
+                </p>
+                <p class="main-desc">
+                  Learn how the stack works — from core systems to application
+                  support.
+                </p>
+                <a
+                  class="start-now btn btn-primary main-primary mt-4 d-inline-block text-center px-4 py-2"
+                  href="#"
+                >
+                  Start Now
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-xl-6">
+              <div class="swiper-cards">
+                <div class="swiper training-modules-swiper">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                      <img src="../images/campus/1.jpg" alt="" />
+                    </div>
+                    <div class="swiper-slide">
+                      <img src="../images/campus/2.jpg" alt="" />
+                    </div>
+                    <div class="swiper-slide">
+                      <img src="../images/campus/3.jpg" alt="" />
+                    </div>
+                    <div class="swiper-slide">
+                      <img src="../images/campus/4.jpg" alt="" />
+                    </div>
+                    <div class="swiper-slide">
+                      <img src="../images/campus/5.jpg" alt="" />
+                    </div>
+                  </div>
+
+                  <div class="swiper-pagination"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="esc-section esc-development-training-modules-container-section"
+      >
+        <div class="container">
+          <div class="pages-title mb-4">
+            <h2 class="h2 mb-3 fw-semibold text-capitalize">
+              S-CORE - Software Development Training Modules
+            </h2>
+            <p class="main-desc">
+              Comprehensive Learning Paths Dive into structured learning modules
+              tailored to your role. Each path ensures deep understanding and
+              practical proficiency in using S-CORE.
+            </p>
+          </div>
+          <div class="development-training-modules-content mt-5">
+            <div class="row g-4 justify-content-center">
+              <div class="col-12 col-lg-6 col-xl-4">
+                <div class="training-card p-4 h-100">
+                  <div class="card-content h-100">
+                    <div class="d-flex align-items-center mb-3">
+                      <img
+                        src="images/campus/SoftwareDevelopment.svg"
+                        alt=""
+                        class="me-2"
+                        width="80"
+                        height="80"
+                      />
+                      <h4 class="mb-0 h4 text-white fw-semibold">
+                        Software Development
+                      </h4>
+                    </div>
+                    <p class="mb-4">
+                      Build strong coding foundations with S-CORE architecture,
+                      version control, testing, and advanced integration
+                      techniques.
+                    </p>
+                    <h5 class="h5 text-white fw-semibold mb-3">
+                      Included modules
+                    </h5>
+                    <ul class="list-unstyled text-white">
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Introduction to S-CORE Development
+                      </li>
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Advanced Programming Techniques
+                      </li>
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        GitHub Workflow & Version Control
+                      </li>
+
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Unit Testing & Debugging
+                      </li>
+
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Integrating New Features & Modules
+                      </li>
+                    </ul>
+                  </div>
+                  <a
+                    class="start-learning btn btn-primary main-primary mt-4 d-inline-block text-center px-4 py-2"
+                    href="#"
+                    >Start Learning</a
+                  >
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-6 col-xl-4">
+                <div class="training-card p-4 h-100">
+                  <div class="card-content h-100">
+                    <div class="d-flex align-items-center mb-3">
+                      <img
+                        src="images/campus/IntegrationTraining.svg"
+                        alt=""
+                        class="me-2"
+                        width="80"
+                        height="80"
+                      />
+                      <h4 class="mb-0 h4 text-white fw-semibold">
+                        Integration Training
+                      </h4>
+                    </div>
+                    <p class="mb-4">
+                      Learn how to integrate, test, and deploy complex S-CORE
+                      systems effectively — from architecture-level integration
+                      to troubleshooting and rollout strategies.
+                    </p>
+                    <h5 class="h5 text-white fw-semibold mb-3">
+                      Included modules
+                    </h5>
+                    <ul class="list-unstyled text-white">
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        System Integration Principles
+                      </li>
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Managing Dependencies & Builds
+                      </li>
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Testing & Validation of Systems
+                      </li>
+
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Deployment Strategies & Rollback
+                      </li>
+                    </ul>
+                  </div>
+                  <a
+                    class="start-learning btn btn-primary main-primary mt-4 d-inline-block text-center px-4 py-2"
+                    href="#"
+                    >Start Learning</a
+                  >
+                </div>
+              </div>
+
+              <div class="col-12 col-lg-6 col-xl-4">
+                <div class="training-card p-4 h-100">
+                  <div class="card-content h-100">
+                    <div class="d-flex align-items-center mb-3">
+                      <img
+                        src="images/campus/HardwareTraining.svg"
+                        alt=""
+                        class="me-2"
+                        width="80"
+                        height="80"
+                      />
+                      <h4 class="mb-0 h4 text-white fw-semibold">
+                        Hardware Training
+                      </h4>
+                    </div>
+                    <p class="mb-4">
+                      Master hardware setup, compatibility, optimization, and
+                      maintenance for seamless integration with the S-CORE
+                      software stack.
+                    </p>
+                    <h5 class="h5 text-white fw-semibold mb-3">
+                      Included modules
+                    </h5>
+                    <ul class="list-unstyled text-white">
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Understanding Hardware Requirements
+                      </li>
+
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        BSP & Driver Configuration
+                      </li>
+                      <li class="d-flex align-items-start mb-1">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Hardware Interface Testing
+                      </li>
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Performance Optimization
+                      </li>
+
+                      <li class="d-flex align-items-start">
+                        <span class="me-3 text-white">
+                          <img src="images/campus/check.svg" alt="" />
+                        </span>
+                        Troubleshooting & Maintenance
+                      </li>
+                    </ul>
+                  </div>
+                  <a
+                    class="start-learning btn btn-primary main-primary mt-4 d-inline-block text-center px-4 py-2"
+                    href="#"
+                    >Start Learning</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="esc-section esc-learning-tutorials-container-section">
+        <div class="container">
+          <div class="row w-100 g-4">
+            <div class="col-12 col-xl-6">
+              <div class="learning-tutorials-item-content">
+                <h2 class="h2 mb-3 fw-semibold text-capitalize">
+                  Visual Learning with Tutorials
+                </h2>
+                <p class="mb-2 main-desc">
+                  Get hands-on with our visual guides and video tutorials —
+                  perfect for fast learners and visual thinkers.
+                </p>
+                <h4 class="h4 mt-4 mb-3 d-flex align-items-center gap-2">
+                  <span class="icon d-flex align-items-center">
+                    <img src="images/campus/video-icon.svg" alt="" />
+                  </span>
+                  Topics Include
+                </h4>
+                <ul class="list-unstyled topics-list">
+                  <li class="d-flex align-items-start mb-1">
+                    <span class="me-3">
+                      <img src="images/campus/outline-check.svg" alt="" />
+                    </span>
+                    Setting Up Your Development Environment
+                  </li>
+                  <li class="d-flex align-items-start mb-1">
+                    <span class="me-3">
+                      <img src="images/campus/outline-check.svg" alt="" />
+                    </span>
+                    Navigating the S-CORE Repository on GitHub
+                  </li>
+                  <li class="d-flex align-items-start">
+                    <span class="me-3">
+                      <img src="images/campus/outline-check.svg" alt="" />
+                    </span>
+                    Unit Testing and Integration Techniques
+                  </li>
+                </ul>
+                <a
+                  class="start-now btn btn-primary main-primary mt-4 d-inline-block text-center px-4 py-2"
+                  href="#"
+                >
+                  Watch Tutorials
+                </a>
+              </div>
+            </div>
+            <div class="col-12 col-xl-6">
+              <div class="tutorials-video ratio ratio-16x9">
+                <iframe
+                  src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+                  title="YouTube video"
+                  allowfullscreen
+                ></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="esc-section esc-faq-container-section">
+        <div class="container">
+          <div class="pages-title mb-4">
+            <h2 class="h2 mb-3 fw-semibold text-capitalize">
+              Frequently Asked Questions
+            </h2>
+            <p class="main-desc">
+              Get quick answers to the most common questions about S-CORE.
+              Whether you're just starting or deep into development, our FAQs
+              cover everything from training schedules to platform usage —
+              helping you find what you need without the hassle.
+            </p>
+          </div>
+
+          <!-- Tabs -->
+          <ul
+            class="nav nav-pills faq-tabs rounded-tabs-container rounded-pill overflow-hidden mb-4 d-flex text-center"
+            id="faqTab"
+            role="tablist"
+          >
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                class="nav-link active w-100"
+                id="general-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#general"
+                type="button"
+                role="tab"
+              >
+                General Questions
+              </button>
+            </li>
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                class="nav-link w-100"
+                id="technical-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#technical"
+                type="button"
+                role="tab"
+              >
+                Technical Questions
+              </button>
+            </li>
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                class="nav-link w-100"
+                id="contribution-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#contribution"
+                type="button"
+                role="tab"
+              >
+                Contribution Questions
+              </button>
+            </li>
+          </ul>
+
+          <!-- Tab Content -->
+          <div class="tab-content" id="faqTabContent">
+            <!-- General Questions -->
+            <div class="tab-pane fade show active" id="general" role="tabpanel">
+              <div class="accordion" id="accordionGeneral">
+                <div class="row">
+                  <div class="col-md-6">
+                    <!-- Item 1 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-1">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-1"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-1"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          What is the process for submitting a feature request
+                          in S-CORE ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-1"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-1"
+                      >
+                        <div class="accordion-body">
+                          Contributions require exhaustive descriptions,
+                          requirements, and sometimes initial architecture
+                          drafts submitted as Feature Requests
+                        </div>
+                      </div>
+                    </div>
+
+                    <!-- Item 2 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-2">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-2"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-2"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          Who can access the training modules?
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-2"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-2"
+                      >
+                        <div class="accordion-body">
+                          All registered S-CORE users can access the training
+                          modules based on their roles.
+                        </div>
+                      </div>
+                    </div>
+
+                    <!-- Item 6 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-6">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-6"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-6"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          How are contributions accepted or declined in the
+                          S-CORE project ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-6"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-6"
+                      >
+                        <div class="accordion-body">
+                          Yes, you will receive a certificate after passing the
+                          module assessments.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Item 7 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-7">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-7"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-7"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          How are contributions accepted or declined in the
+                          S-CORE project ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-7"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-7"
+                      >
+                        <div class="accordion-body">
+                          Yes, you will receive a certificate after passing the
+                          module assessments.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-md-6">
+                    <!-- Item 3 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-3">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-3"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-3"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          How are contributions accepted or declined in the
+                          S-CORE project ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-3"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-3"
+                      >
+                        <div class="accordion-body">
+                          Yes, you will receive a certificate after passing the
+                          module assessments.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Item 4 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-4">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-4"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-4"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          How are contributions accepted or declined in the
+                          S-CORE project ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-4"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-4"
+                      >
+                        <div class="accordion-body">
+                          Yes, you will receive a certificate after passing the
+                          module assessments.
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Item 5 -->
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="g-heading-5">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#g-collapse-5"
+                          aria-expanded="false"
+                          aria-controls="g-collapse-5"
+                          data-bs-parent="#accordionGeneral"
+                        >
+                          How are contributions accepted or declined in the
+                          S-CORE project ?
+
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="g-collapse-5"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="g-heading-5"
+                      >
+                        <div class="accordion-body">
+                          Yes, you will receive a certificate after passing the
+                          module assessments.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Technical Questions -->
+            <div class="tab-pane fade" id="technical" role="tabpanel">
+              <div class="accordion" id="accordionTechnical">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="t-heading-1">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#t-collapse-1"
+                          aria-expanded="false"
+                          aria-controls="t-collapse-1"
+                          data-bs-parent="#accordionTechnical"
+                        >
+                          What tech stack does S-CORE use?
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="t-collapse-1"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="t-heading-1"
+                      >
+                        <div class="accordion-body">
+                          S-CORE is built on Node.js, React, PostgreSQL, and
+                          integrated with Docker and GitHub Actions.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="t-heading-2">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#t-collapse-2"
+                          aria-expanded="false"
+                          aria-controls="t-collapse-2"
+                          data-bs-parent="#accordionTechnical"
+                        >
+                          How do I report a bug?
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="t-collapse-2"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="t-heading-2"
+                      >
+                        <div class="accordion-body">
+                          Please use the GitHub Issues page of the project to
+                          report bugs, including detailed steps and logs.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Contribution Questions -->
+            <div class="tab-pane fade" id="contribution" role="tabpanel">
+              <div class="accordion" id="accordionContribution">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="c-heading-1">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#c-collapse-1"
+                          aria-expanded="false"
+                          aria-controls="c-collapse-1"
+                          data-bs-parent="#accordionContribution"
+                        >
+                          How can I contribute?
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="c-collapse-1"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="c-heading-1"
+                      >
+                        <div class="accordion-body">
+                          Fork the repository, create a new branch, and submit a
+                          PR following the contribution guidelines.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="accordion-item mb-3 rounded-4 shadow-sm">
+                      <h2 class="accordion-header" id="c-heading-2">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#c-collapse-2"
+                          aria-expanded="false"
+                          aria-controls="c-collapse-2"
+                          data-bs-parent="#accordionContribution"
+                        >
+                          Do I need approval to submit PRs?
+                          <div class="icon">
+                            <img src="images/campus/arrow-down.svg" alt="" />
+                          </div>
+                        </button>
+                      </h2>
+                      <div
+                        id="c-collapse-2"
+                        class="accordion-collapse collapse"
+                        aria-labelledby="c-heading-2"
+                      >
+                        <div class="accordion-body">
+                          Yes. One of the maintainers will review and merge your
+                          PR.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer-section">
+        <div class="container">
+          <div class="row justify-content-start mb-3">
+            <div class="col-12">
+              <ul
+                class="footer-links d-flex flex-wrap justify-content-start gap-3 mb-2 list-unstyled"
+              >
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row justify-content-start mb-3">
+            <div class="col-12 text-start">
+              <span class="footer-copyright fw-bold text-white"
+                >All Right Reserved For Eclipse © 2024</span
+              >
+            </div>
+          </div>
+          <div class="row justify-content-start">
+            <div class="col-12 col-md-auto d-flex justify-content-start gap-3">
+              <a
+                href="#"
+                class="footer-policy-link text-white text-decoration-none"
+                >Terms and Conditions</a
+              >
+              <a
+                href="#"
+                class="footer-policy-link text-white text-decoration-none"
+                >Privacy Policy</a
+              >
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+    <div id="loading-screen">
+      <img src="images/icons/logo.svg" alt="Logo" class="loading-logo" />
+    </div>
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/swiper-bundle.min.js"></script>
+    <script src="js/swiper.js"></script>
+    <script src="js/loading.js"></script>
+  </body>
+</html>

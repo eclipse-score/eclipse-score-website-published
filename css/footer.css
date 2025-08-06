@@ -1,0 +1,15 @@
+.footer-section {
+  padding: 60px 0px;
+  background-color: #220e38;
+}
+
+.footer-section .footer-copyright {
+}
+.footer-section a {
+  font-weight: 400;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease-in-out;
+}
+.footer-section a:hover {
+  border-color: #fff !important;
+}

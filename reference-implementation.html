@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=4, user-scalable=yes"
+    />
+
+    <meta charset="utf-8" />
+    <title>S-CORE</title>
+    <meta
+      name="description"
+      content="From Proprietary To Open Source The industry has long tackled software challenges independently – often duplicating efforts and building closed, incompatible systems."
+    />
+    <link rel="icon" href="images/icons/favicon.ico" type="image/x-icon" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/loading.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css"
+    />
+
+    <link rel="stylesheet" href="css/navbar.css" />
+    <link rel="stylesheet" href="css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="css/globals.css" />
+    <link rel="stylesheet" href="css/footer.css" />
+    <link rel="stylesheet" href="css/styleguide.css" />
+    <link rel="stylesheet" href="css/campus.css" />
+  </head>
+  <body>
+    <header class="main-pages-header campus-page-header w-100">
+      <nav
+        class="navbar navbar-expand-xl navbar-light bg-light frame w-100"
+        style="min-height: 64px"
+      >
+        <div class="container px-3">
+          <div class="navbar-content">
+            <a
+              class="navbar-brand d-flex align-items-center logo"
+              href="index.html"
+            >
+              <div class="logo-icon me-0">
+                <img class="logo-text" src="images/icons/logo.svg" alt="Logo" />
+              </div>
+              <span class="logo-title h1 mb-0 fw-semibold">S-CORE</span>
+            </a>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0 navigation-links">
+                <li class="nav-item">
+                  <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="news.html"
+                    >News/Events</a
+                  >
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link active" href="training-modules.html"
+                    >Campus</a
+                  >
+                  <div
+                    class="active-indicator d-none d-lg-block"
+                    aria-hidden="true"
+                  ></div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about-us.html">About us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="docs.html">Docs</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">How To Contribute</a>
+                </li>
+              </ul>
+              <div
+                class="search-form-container d-flex align-items-center gap-2"
+              >
+                <form class="d-flex search-form" role="search">
+                  <label for="site-search" class="visually-hidden"
+                    >Search This Site</label
+                  >
+                  <input
+                    class="form-control me-2"
+                    type="search"
+                    id="site-search"
+                    placeholder="Search This Site"
+                    aria-label="Search"
+                  />
+                  <button
+                    class="btn btn-outline-secondary btn-search"
+                    type="submit"
+                    aria-label="Search"
+                  >
+                    <img
+                      src="images/icons/search-normal.svg"
+                      alt=""
+                      class="search-icon"
+                    />
+                  </button>
+                </form>
+                <a
+                  href="#"
+                  class="github-link ms-2"
+                  aria-label="Visit our GitHub"
+                >
+                  <div class="github-icon" aria-hidden="true">
+                    <img
+                      src="images/icons/github.svg"
+                      alt="GitHub Icon"
+                      class="img-fluid"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <section
+        class="pages-header-content w-100 flex-grow-1 d-flex align-items-end py-5"
+      >
+        <div class="container">
+          <div class="pages-title">
+            <h2 class="h2 text-white">Campus</h2>
+          </div>
+          <div class="bredcrumb-container">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item">
+                  <a href="index.html" class="breadcrumb-link text-white"
+                    >Home</a
+                  >
+                </li>
+                <li class="breadcrumb-item">
+                  <a
+                    href="training-modules.html"
+                    class="breadcrumb-link text-white"
+                    >Campus</a
+                  >
+                </li>
+                <li
+                  class="breadcrumb-item active text-white"
+                  aria-current="page"
+                >
+                  Reference Implementation
+                </li>
+              </ol>
+            </nav>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main class="main-section p-0 d-flex flex-column">
+      <section class="esc-pages-section nav-tabs-section">
+        <div class="container">
+          <div class="nav-tabs-wrapper">
+            <ul class="nav nav-tabs">
+              <li class="nav-item">
+                <a class="nav-link" href="training-modules.html"
+                  >Training Modules</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="reference-implementation.html"
+                  >Reference Implementation</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Samples & Demos</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="esc-section esc-reference-implementations-container-section pt-0"
+      >
+        <div class="container">
+          <div class="pages-title mb-4">
+            <h2 class="h2 mb-3 fw-semibold text-capitalize">
+              What are Reference Implementations ?
+            </h2>
+            <p class="max-w-65">
+              Reference Implementations are pre-configured software examples
+              that demonstrate best practices for deploying and operating S-CORE
+              across various environments. They offer real code, integration
+              steps, and tuning recommendations to help engineers build robust
+              and optimized systems.
+            </p>
+          </div>
+
+          <!-- Tabs -->
+          <ul
+            class="nav nav-pills implementations-tabs rounded-tabs-container rounded-pill overflow-hidden mb-4 d-flex text-center"
+            id="implementationsTab"
+            role="tablist"
+          >
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                class="nav-link active w-100"
+                id="executable-sw-platform-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#executable-sw-platform"
+                type="button"
+                role="tab"
+              >
+                Executable SW-Platform
+              </button>
+            </li>
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                disabled
+                class="nav-link w-100"
+                id="operating-system-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#operating-system"
+                type="button"
+                role="tab"
+              >
+                Operating System
+              </button>
+            </li>
+            <li class="nav-item flex-fill" role="presentation">
+              <button
+                disabled
+                class="nav-link w-100"
+                id="board-support-package-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#board-support-package"
+                type="button"
+                role="tab"
+              >
+                Board Support Package
+              </button>
+            </li>
+          </ul>
+
+          <!-- Tab Content -->
+          <div class="tab-content" id="implementationsTabContent">
+            <!-- Executable SW-Platform -->
+            <div
+              class="tab-pane fade show active"
+              id="executable-sw-platform"
+              role="tabpanel"
+            >
+              <section class="code-example-section py-4">
+                <div class="container">
+                  <div class="row g-4 align-items-stretch">
+                    <!-- Comment Block -->
+                    <div class="col-md-6 text-white">
+                      <div class="comment-block">
+                        <pre><code>Utilize QEMU to emulate multiple architectures and test your applications. Discover how S-CORE integrates effectively with QEMU environments, facilitating development and testing.
+
+- **Headline:** Versatile Emulation Solutions
+
+- **Sub-headline:** Testing and Development with QEMU and 
+S-CORE
+
+- **Strengths of QEMU:**  
+- **Multi-Architecture Support:** Capable of emulating a variety of architectures to support S-CORE applications.
+- **Integration Capabilities:** Provides ease of deployment and effective integration with S-CORE components.
+
+- **Getting Started:**  
+- **Download Link:** Access QEMU binaries compatible with S-CORE development.
+- **Setup Documentation:** Step-by-step guide for setting up and configuring QEMU with S-CORE.
+</code></pre>
+                      </div>
+                    </div>
+
+                    <!-- Code Block -->
+                    <div class="col-md-6 code-block-container">
+                      <div class="code-block position-relative">
+                        <button
+                          class="copy-btn"
+                          title="Copy Code"
+                          onclick="copyCode()"
+                        >
+                          <img src="images/icons/white-copy.svg" alt="" />
+                        </button>
+                        <!-- prettier-ignore -->
+                        <ol class="line-numbers">
+                            <li class="code-gray"><span>//&nbsp;**Code&nbsp;Example:**</span> <span>-&gt;</span></li>
+                            <li><span>&nbsp;</span></li>
+                            <li class="code-orange"><span>```bash #!/bin/bash</span></li>
+                            <li><span>&nbsp;</span></li>
+                            <li class="code-pink"><span>#&nbsp;Define&nbsp;QEMU&nbsp;command&nbsp;to&nbsp;start&nbsp;with&nbsp;specific&nbsp;settings</span></li>
+                            <li class="code-pink"><span>qemu-system-x86_64&nbsp;\</span></li>
+                            <li><span></span></li><br/>
+                            
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;-drive&nbsp;file=.qcow2,format=qcow2&nbsp;\</span></li>
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-m&nbsp;4G&nbsp;\</span></li>
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-smp&nbsp;4&nbsp;\</span></li>
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-enable-kvm&nbsp;\</span></li>
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-net&nbsp;nic,model=e1000&nbsp;\</span></li>
+                            <li class="code-blue"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-net&nbsp;user</span></li>
+                            <li class="code-blue"><span>&nbsp;</span></li>
+                            <li class="code-pink"><span>echo&nbsp;"QEMU&nbsp;started&nbsp;with&nbsp;S-CORE&nbsp;disk&nbsp;image."</span></li>
+                            <li><span></span></li><br/>
+                            <li><span></span></li><br/>
+                            <li><span></span></li><br/>
+                            <li><span></span></li><br/>
+                            <li><span></span></li><br/>
+                        </ol>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+            </div>
+
+            <!-- Operating System -->
+            <div class="tab-pane fade" id="operating-system" role="tabpanel">
+              <h1>Operating System Content</h1>
+            </div>
+
+            <!-- Board Support Package -->
+            <div
+              class="tab-pane fade"
+              id="board-support-package"
+              role="tabpanel"
+            >
+              <h1>Board Support Package Content</h1>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="esc-section esc-stay-connected-container-section pt-0">
+        <div class="container">
+          <div class="stay-connected-content">
+            <div class="pages-title mb-4">
+              <h2 class="h2 mb-3 fw-semibold text-capitalize">
+                Stay Connected with S-CORE
+              </h2>
+              <p class="max-w-65">
+                Join the conversation, access exclusive resources, and follow us
+                for the latest updates.
+              </p>
+            </div>
+
+            <div class="row g-3 mt-4 px-4">
+              <!-- Join Section -->
+              <div class="col-12 col-xl-4">
+                <div
+                  class="connected-card d-flex align-items-center justify-content-start h-100"
+                >
+                  <img
+                    src="images/campus/share.svg"
+                    alt="Join Icon"
+                    width="48"
+                    class="me-3 icon"
+                  />
+                  <div>
+                    <h5 class="h5 fw-semibold mb-1">Join S-CORE</h5>
+                    <p class="text-muted mb-0">Connect With Us!</p>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Download Section -->
+              <div class="col-12 col-xl-4">
+                <div
+                  class="connected-card d-flex align-items-center justify-content-start h-100"
+                >
+                  <a href="Get_Started_With_Smallpdf.pdf" class="" download
+                    ><img
+                      src="images/campus/document-download.svg"
+                      alt="Download Icon"
+                      width="48"
+                      class="me-3 icon"
+                  /></a>
+                  <div>
+                    <h5 class="h5 fw-semibold mb-1">Download</h5>
+                    <p class="text-muted mb-2">Our latest Whitepaper!</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-xl-4">
+                <div
+                  class="connected-card d-flex align-items-center justify-content-start h-100"
+                >
+                  <div class="me-3 d-flex gap-2">
+                    <a href="https://linkedin.com" target="_blank">
+                      <img
+                        class="icon"
+                        src="images/campus/mage_linkedin.svg"
+                        alt="LinkedIn"
+                        width="48"
+                      />
+                    </a>
+                    <a href="https://slack.com" target="_blank">
+                      <img
+                        class="icon"
+                        src="images/campus/slack.svg"
+                        alt="Slack"
+                        width="48"
+                      />
+                    </a>
+                  </div>
+                  <div>
+                    <h5 class="h5 fw-semibold mb-1">Follow Us</h5>
+                    <p class="text-muted mb-0">
+                      Stay in the loop on all platforms!
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer-section">
+        <div class="container">
+          <div class="row justify-content-start mb-3">
+            <div class="col-12">
+              <ul
+                class="footer-links d-flex flex-wrap justify-content-start gap-3 mb-2 list-unstyled"
+              >
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    class="footer-link text-white text-decoration-none"
+                    >Footer Link</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row justify-content-start mb-3">
+            <div class="col-12 text-start">
+              <span class="footer-copyright fw-bold text-white"
+                >All Right Reserved For Eclipse © 2024</span
+              >
+            </div>
+          </div>
+          <div class="row justify-content-start">
+            <div class="col-12 col-md-auto d-flex justify-content-start gap-3">
+              <a
+                href="#"
+                class="footer-policy-link text-white text-decoration-none"
+                >Terms and Conditions</a
+              >
+              <a
+                href="#"
+                class="footer-policy-link text-white text-decoration-none"
+                >Privacy Policy</a
+              >
+            </div>
+          </div>
+        </div>
+      </footer>
+    </main>
+    <div id="loading-screen">
+      <img src="images/icons/logo.svg" alt="Logo" class="loading-logo" />
+    </div>
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/campus.js"></script>
+    <script src="js/loading.js"></script>
+  </body>
+</html>

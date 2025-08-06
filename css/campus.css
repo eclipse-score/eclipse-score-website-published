@@ -1,0 +1,353 @@
+.campus-page-header {
+  background-image: url("../images/news/bg.jpg");
+}
+
+.training-modules-swiper .swiper {
+  padding: 50px 0;
+}
+
+.training-modules-swiper .swiper-slide {
+  width: auto !important;
+  max-width: 250px !important;
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.training-modules-swiper .swiper-slide img {
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.training-modules-swiper .swiper-wrapper {
+  padding-bottom: 30px;
+}
+.training-modules-swiper .swiper-pagination {
+  bottom: 0px !important;
+}
+/* Base dot style */
+.training-modules-swiper .swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background-color: #dee2e8;
+  border-radius: 999px;
+  opacity: 1;
+  margin: 0 4px;
+  transition: all 0.3s ease;
+}
+
+.training-modules-swiper .swiper-pagination-bullet-active {
+  width: 18px;
+  background-color: #6a1b9a;
+}
+.esc-development-training-modules-container-section {
+  background-image: url("../images/campus/training-bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.esc-development-training-modules-container-section .pages-title p,
+.esc-development-training-modules-container-section .pages-title .h2 {
+  color: #fff;
+}
+@media (min-width: 1200px) {
+  .esc-development-training-modules-container-section .pages-title p {
+    max-width: 65%;
+  }
+}
+
+.esc-development-training-modules-container-section .training-card {
+  background-color: #15051f;
+  border-radius: 1.5rem;
+  box-shadow: 0px 8px 8px 0px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.esc-development-training-modules-container-section .training-card h4,
+.esc-development-training-modules-container-section .training-card h5,
+.esc-development-training-modules-container-section .training-card h6 {
+  color: #ffffff;
+}
+.esc-development-training-modules-container-section .training-card p {
+  color: #dee2e8;
+  min-height: 100px;
+}
+.esc-learning-tutorials-container-section .topics-list li,
+.esc-development-training-modules-container-section .training-card ul li {
+  font-size: 1.125rem;
+}
+.esc-learning-tutorials-container-section .topics-list li span,
+.esc-development-training-modules-container-section .training-card ul li span {
+  width: 1.5rem;
+  min-width: 1.5rem;
+  margin-inline-end: 2rem;
+}
+
+.esc-development-training-modules-container-section
+  .training-card
+  .start-learning {
+  justify-self: end;
+  width: fit-content;
+}
+.esc-development-training-modules-container-section
+  .training-card
+  .start-learning:hover {
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+.esc-learning-tutorials-container-section .h2,
+.esc-learning-tutorials-container-section .h4,
+.esc-learning-tutorials-container-section .h5,
+.esc-learning-tutorials-container-section p {
+  color: #242c38;
+}
+
+.esc-learning-tutorials-container-section .topics-list li {
+  color: #1f2a37;
+}
+
+/* FAQ */
+/* Tabs styling */
+.esc-faq-container-section {
+  background-color: #f7e9ff;
+}
+
+.esc-faq-container-section .pages-title .h2,
+.esc-faq-container-section .pages-title p {
+  color: #242c38;
+}
+
+@media (min-width: 1200px) {
+  .esc-faq-container-section .pages-title p {
+    max-width: 65%;
+  }
+}
+/* .esc-faq-container-section .faq-tabs {
+  background-color: #fff;
+  border-radius: 1.5rem !important;
+
+  overflow: hidden;
+}
+.esc-faq-container-section .faq-tabs .nav-item {
+  margin: 0;
+}
+@media (max-width: 767.98px) {
+  .esc-faq-container-section .faq-tabs {
+  }
+  .esc-faq-container-section .faq-tabs .nav-item {
+    width: 100%;
+  }
+}
+.esc-faq-container-section .faq-tabs .nav-link {
+  border-radius: 0;
+  font-weight: 500;
+  color: #242c38;
+  background-color: transparent;
+  transition: all 0.3s ease-in-out;
+  padding: 1rem;
+  font-size: 1.125rem !important;
+}
+
+.esc-faq-container-section .faq-tabs .nav-link.active {
+  background-color: #6a1b9a;
+  color: white;
+}
+.esc-faq-container-section .faq-tabs .nav-link:not(.active):hover {
+  color: #6a1b9a;
+} */
+/* Accordion button */
+.esc-faq-container-section .accordion-button {
+  font-weight: 600;
+  border-radius: 1.5rem;
+  background: #fff !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border-radius: 1.5rem !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  color: #242c38 !important;
+  gap: 0.5rem;
+  font-size: 1.11rem;
+}
+.esc-faq-container-section .accordion-button .icon {
+  background-color: #6a1b9a;
+  border-radius: 0.5rem !important;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.125rem;
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+}
+.esc-faq-container-section .accordion-button .icon img {
+  transition: transform 0.5s ease-in-out;
+}
+.esc-faq-container-section .accordion-button:not(.collapsed) img {
+  transform: rotate(180deg);
+}
+
+.esc-faq-container-section .accordion-button::after {
+  transition: transform 0.5s ease-in-out;
+  color: #fff !important;
+  background-color: #6a1b9a;
+  display: none;
+}
+
+.esc-faq-container-section .accordion-button:not(.collapsed)::after {
+  transform: rotate(180deg);
+}
+
+.esc-faq-container-section .accordion-item {
+  background: white;
+  border-radius: 1.5rem !important;
+  border: none;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+}
+
+.esc-faq-container-section .accordion-body {
+  padding-top: 0;
+  color: #1f2a37 !important;
+}
+
+.implementations-tabs {
+  background-color: #f6f3fe;
+}
+
+.code-example-section {
+  background-color: #1c1c1c;
+  color: #f8f8f2;
+  border-radius: 1rem;
+}
+.code-example-section * {
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+}
+.code-example-section .code-block {
+  background-color: #1c1c1c;
+  border-radius: 12px;
+  padding: 1rem 0;
+  height: 100%;
+  overflow: auto;
+  font-family: monospace;
+  font-size: 14px;
+  position: relative;
+  max-height: 500px;
+}
+
+.code-example-section .line-numbers {
+  counter-reset: line;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.code-example-section .line-numbers li {
+  position: relative;
+  padding-inline-start: 3rem;
+  white-space: pre;
+  line-height: 1.5;
+}
+.code-example-section .line-numbers li * {
+  color: #fff;
+}
+.code-example-section .line-numbers .code-gray * {
+  color: rgba(255, 255, 255, 0.4);
+}
+.code-example-section .line-numbers .code-orange * {
+  color: #ffac60;
+}
+.code-example-section .line-numbers .code-pink * {
+  color: #ff32c6;
+}
+.code-example-section .line-numbers .code-blue * {
+  color: #3fa4ff;
+}
+.code-example-section .line-numbers li::before {
+  counter-increment: line;
+  content: counter(line);
+  position: absolute;
+  left: 0;
+  width: 2rem;
+  color: #888;
+  text-align: right;
+}
+
+.code-example-section .copy-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: transparent !important;
+  box-sizing: none !important;
+  outline: none !important;
+  border: none !important;
+  padding: 0 !important;
+  cursor: pointer !important;
+  z-index: 10 !important;
+}
+
+.code-example-section .comment-block {
+  background-color: transparent;
+  overflow-y: auto;
+  max-height: 500px;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  display: flex;
+  align-items: start;
+  font-family: monospace;
+  padding: 1rem;
+}
+
+.code-example-section .comment-block pre {
+  background: transparent;
+  color: #3fa4ff;
+  font-family: inherit;
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-x: hidden;
+}
+
+.stay-connected-content {
+  background-image: url("../images/campus/stay-connected.jpg");
+  background-position: bottom;
+  background-size: cover;
+  padding: 3rem 2rem;
+  border-radius: 1.5rem;
+}
+.stay-connected-content * {
+  color: #fff !important;
+}
+.stay-connected-content .connected-card p {
+  font-size: 1.125rem;
+}
+.stay-connected-content .icon {
+  min-width: 48px;
+}
+@media (max-width: 767.98px) {
+  .stay-connected-content .connected-card {
+    flex-direction: column;
+    justify-content: start !important;
+    align-items: start !important;
+  }
+  .stay-connected-content .connected-card .h5 {
+    margin-top: 0.5rem;
+  }
+}
+.esc-reference-implementations-container-section .pages-title p,
+.esc-stay-connected-container-section .pages-title p {
+  font-size: 1.125rem;
+}

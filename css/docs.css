@@ -1,0 +1,51 @@
+.docs-page-header {
+  background-image: url("../images/news/bg.jpg");
+}
+
+.esc-roadmap-2-container-section .h2,
+.esc-roadmap-1-container-section .h2 {
+  color: #242c38;
+}
+.esc-roadmap-1-container-section .roadmap-modules {
+}
+.esc-roadmap-1-container-section .roadmap-modules .roadmap-module {
+}
+.esc-roadmap-1-container-section .roadmap-modules .color {
+  width: 50px;
+  height: 20px;
+  display: inline-block;
+  border-radius: 4px;
+  color: #242c38;
+  font-size: 1.125rem;
+}
+.esc-roadmap-1-container-section .roadmap-modules .v-0-5 {
+  background-color: #2a0b3e;
+}
+.esc-roadmap-1-container-section .roadmap-modules .module-name {
+}
+.esc-roadmap-1-container-section .roadmap-modules .v-1-0 {
+  background-color: #6a1b9a;
+}
+
+.esc-roadmap-2-container-section {
+  background-color: #f9f2fd;
+}
+
+.esc-documentation-container-section .pages-title p {
+  font-size: 1.125rem;
+  color: #1f2a37;
+}
+
+@media (min-width: 1200px) {
+  .esc-documentation-container-section .pages-title p {
+    max-width: 65%;
+  }
+}
+.esc-documentation-container-section .zoom-image-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 750px;
+  margin: auto;
+  margin-top: 2rem;
+}
