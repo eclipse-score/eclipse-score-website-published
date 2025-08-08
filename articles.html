@@ -27,10 +27,10 @@
     <link rel="stylesheet" href="css/globals.css" />
     <link rel="stylesheet" href="css/footer.css" />
     <link rel="stylesheet" href="css/styleguide.css" />
-    <link rel="stylesheet" href="css/docs.css" />
+    <link rel="stylesheet" href="css/news.css" />
   </head>
   <body>
-    <header class="main-pages-header docs-page-header w-100">
+    <header class="main-pages-header news-page-header w-100">
       <nav
         class="navbar navbar-expand-xl navbar-light bg-light frame w-100"
         style="min-height: 64px"
@@ -62,10 +62,17 @@
                 <li class="nav-item">
                   <a class="nav-link" href="index.html">Home</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" aria-current="page" href="news.html"
+                <li class="nav-item active">
+                  <a
+                    class="nav-link active"
+                    aria-current="page"
+                    href="news.html"
                     >News/Events</a
                   >
+                  <div
+                    class="active-indicator d-none d-lg-block"
+                    aria-hidden="true"
+                  ></div>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="training-modules.html">How To Contribute</a>
@@ -73,16 +80,14 @@
                 <li class="nav-item">
                   <a class="nav-link" href="about-us.html">About us</a>
                 </li>
-
-                <li class="nav-link active">
+                <li class="nav-item">
                   <a class="nav-link" href="docs.html">Docs</a>
                 </li>
-             
+                
               </ul>
               <div
                 class="search-form-container d-flex align-items-center gap-2"
-              >
-              <!--
+              > <!--
                 <form class="d-flex search-form" role="search">
                   <label for="site-search" class="visually-hidden"
                     >Search This Site</label
@@ -105,7 +110,7 @@
                       class="search-icon"
                     />
                   </button>
-                </form>-->
+                </form> -->
                 <a
                   href="#"
                   class="github-link ms-2"
@@ -129,7 +134,7 @@
       >
         <div class="container">
           <div class="pages-title">
-            <h2 class="h2 text-white">Docs</h2>
+            <h2 class="h2 text-white">News & Events</h2>
           </div>
           <div class="bredcrumb-container">
             <nav aria-label="breadcrumb">
@@ -139,12 +144,16 @@
                     >Home</a
                   >
                 </li>
-
+                <li class="breadcrumb-item">
+                  <a href="news.html" class="breadcrumb-link text-white"
+                    >News &amp; Events</a
+                  >
+                </li>
                 <li
                   class="breadcrumb-item active text-white"
                   aria-current="page"
                 >
-                  Docs
+                  Articles
                 </li>
               </ol>
             </nav>
@@ -154,84 +163,101 @@
     </header>
 
     <main class="main-section p-0 min-vh-100 d-flex flex-column">
-      <section class="esc-section esc-roadmap-1-container-section">
+      <section class="esc-pages-section nav-tabs-section">
         <div class="container">
-          <div
-            class="pages-title mb-4 d-flex flex-wrap align-items-center justify-content-between"
-          >
-            <h2 class="h2 fw-semibold">S-Core Project Roadmap</h2>
-            <div class="roadmap-modules d-flex flex-wrap gap-3">
-              <div class="roadmap-module d-flex align-items-center gap-2">
-                <span class="color v-0-5"></span>
-                <span class="module-name">S-CORE v0.5 module </span>
-              </div>
-              <div class="roadmap-module d-flex align-items-center gap-2">
-                <span class="color v-1-0"></span>
-
-                <span class="module-name">S-CORE v1.0 module </span>
-              </div>
-            </div>
-          </div>
-          <div class="roadmap-content">
-            <div class="roadmap-container mt-4 d-flex flex-column gap-4">
-              <div class="zoom-image-wrapper">
-                <div class="panzoom-container">
-                  <img
-                    src="images/docs/roadmap-1-3x.png"
-                    alt=""
-                    class="zoom-image"
-                  />
-                </div>
-              </div>
-            </div>
+          <div class="nav-tabs-wrapper">
+            <ul class="nav nav-tabs">
+              <li class="nav-item">
+                <a class="nav-link" href="news.html">Conferences</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="press_releases.html">Press Releases</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="articles.html">Articles</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="townhalls.html">Townhalls</a>
+              </li>
+            </ul>
           </div>
         </div>
       </section>
 
-      <section class="esc-section esc-roadmap-2-container-section">
+      <section
+        class="esc-section esc-news-container-section pt-0 min-vh-100 mt-4"
+      >
         <div class="container">
-          <div class="pages-title mb-4">
-            <h2 class="h2 fw-semibold">S-Core Project Roadmap</h2>
-          </div>
-          <div class="roadmap-content">
-            <div class="roadmap-container mt-4 d-flex flex-column gap-4">
-              <div class="zoom-image-wrapper">
-                <div class="panzoom-container">
-                  <img
-                    src="images/docs/roadmap-2-3x.png"
-                    alt=""
-                    class="zoom-image"
-                  />
+          <div class="row w-100 g-4">
+            <div class="col-12 col-xl-8 gap-3 mt-0">
+              <div class="d-flex flex-column gap-3">
+                <div class="main-blog-item-card d-flex flex-column gap-3">
+                  <div
+                    class="blog-img d-flex align-items-center justify-content-center"
+                  >
+                    <img src="images/news/blog-img.jpg" alt="" />
+                  </div>
+                  <div class="blog-item-content">
+                    <div
+                      class="top-pick-date d-flex align-items-center gap-2 mb-2"
+                    >
+                      <span class="icon d-flex align-items-center">
+                        <img src="images/icons/calendar.svg" alt="" />
+                      </span>
+                      <span class="date">Sept, 2025</span>
+                    </div>
+                    <h2 class="h2 mb-3">
+                      S-Core Article in Eclipse Newsletter
+                    </h2>
+                    <p>
+                      ""
+                      Authors: xxx 
+                    </p>
+                    <a
+                      class="read-more btn btn-primary main-primary mt-4 d-inline-block text-center"
+                      href="#"
+                    >
+                      Read More
+                    </a>
+                  </div>
                 </div>
+              
+              </div>
+              <div class="text-center mt-3">
+                <a
+                  class="show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center"
+                  href="#"
+                >
+                  Show More
+                </a>
               </div>
             </div>
-          </div>
-        </div>
-      </section>
+            <div class="col-12 col-xl-4 mt-xl-0 mt-5">
+              <div class="main-search-top-picks-card d-flex flex-column gap-4">
+                <!-- <div class="search-container">
+                  <h5 class="h5 fw-semibold mb-3">Search</h5>
 
-      <section class="esc-section esc-documentation-container-section">
-        <div class="container">
-          <div class="pages-title mb-4">
-            <h2 class="h2 mb-3 fw-semibold">Build & Documentation Toolchain</h2>
-            <p class="main-desc">
-              The build system uses Bazel to automate workflows like repository
-              cloning, software builds, documentation generation, testing, and
-              more. Documentation is managed with Sphinx and sphinx-needs, while
-              diagrams are created using PlantUML and draw.io. Supported
-              languages include C++ and Rust, with testing handled by
-              gtest/gmock.
-            </p>
-          </div>
-          <div class="roadmap-content">
-            <div class="roadmap-container mt-4 d-flex flex-column gap-4">
-              <div class="zoom-image-wrapper">
-                <div class="panzoom-container">
-                  <img
-                    src="images/docs/documentation-3x.png"
-                    alt=""
-                    class="zoom-image"
-                  />
-                </div>
+                 <form class="d-flex search-form" role="search">
+                    <input
+                      class="form-control me-2"
+                      type="search"
+                      id="site-search"
+                      placeholder="Search here"
+                      aria-label="Search"
+                    />
+                    <button
+                      class="btn btn-outline-secondary btn-search"
+                      type="submit"
+                      aria-label="Search"
+                    >
+                      <img
+                        src="images/icons/search-white.svg"
+                        alt=""
+                        class="search-icon"
+                      />
+                    </button>
+                  </form>
+                </div>-->
               </div>
             </div>
           </div>
@@ -303,7 +329,7 @@
                 </li>
               </ul>
             </div>
-          </div>-->
+          </div> -->
           <div class="row justify-content-start mb-3">
             <div class="col-12 text-start">
               <span class="footer-copyright fw-bold text-white"
@@ -333,8 +359,6 @@
     </div>
     <script src="js/jquery-3.7.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/panzoom.min.js"></script>
-    <script src="js/zoom.js"></script>
     <script src="js/loading.js"></script>
   </body>
 </html>

@@ -1,5 +1,5 @@
 .main-section {
-  min-height: 100vh;
+  /* min-height: 100vh; */
   position: relative;
   overflow: hidden;
 }
@@ -7,7 +7,7 @@
   background-image: url("../images/home/bg.jpg");
   background-size: cover;
   background-position: center bottom;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 .main-section .div {
   display: inline-flex;
@@ -178,6 +178,7 @@
   color: #6a1b9a;
 }
 
+/* full page START -> remove? */
 .section.no-fullpage-footer {
   height: auto !important;
   min-height: auto !important;
@@ -207,3 +208,4 @@
   height: 4px !important;
   margin: -2px 0 0 -2px !important;
 }
+/* full page END -> remove? */
