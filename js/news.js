@@ -13,7 +13,7 @@ $(function () {
     nav: false,
     responsive: responsiveConfig,
     autoplay: true,
-    autoplayTimeout: 5000,
+    autoplayTimeout: 3000,
     autoplayHoverPause: true,
   });
 
