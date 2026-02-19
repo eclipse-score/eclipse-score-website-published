@@ -1,1 +1,3794 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/</link><description>Recent content on Eclipse S-CORE</description><generator>Hugo</generator><language>en</language><managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor><webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster><atom:link href="https://eclipse.dev/score/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/</link><description>Recent content on Eclipse S-CORE</description><generator>Hugo</generator><language>en</language><managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor><webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster><atom:link href="https://eclipse.dev/score/index.xml" rel="self" type="application/rss+xml"/><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/about-us.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/about-us.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-section esc-who-we-are-container-section">
+ &lt;div class="container">
+ &lt;div class="row w-100 g-4">
+ &lt;div class="col-12 col-xl-6">
+ &lt;div class="who-we-are-content">
+ &lt;h2 class="h2 mb-3 fw-semibold">Who We Are&lt;/h2>
+ &lt;p class="mb-2">
+ We’re a collaborative and ever-growing community of automotive
+ experts, technology partners, developers, and innovators
+ united under the Eclipse Foundation. Together, we’re shaping
+ the future of automotive software by building open, safe, and
+ scalable solutions.
+ &lt;/p>
+&lt;pre>&lt;code> &amp;lt;div
+ class=&amp;quot;vision-and-mission-container mt-4 d-flex flex-column gap-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div
+ class=&amp;quot;vision-mission-item d-flex align-items-start gap-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/our-vision.svg&amp;quot;
+ alt=&amp;quot;Vision Icon&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-3&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4&amp;quot;&amp;gt;Our Vision&amp;lt;/h4&amp;gt;
+ &amp;lt;p&amp;gt;
+ “Build the best automotive runtime solution – ONLY
+ ONCE!”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div
+ class=&amp;quot;vision-mission-item d-flex align-items-start gap-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/our-mission.svg&amp;quot;
+ alt=&amp;quot;Vision Icon&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-3&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4&amp;quot;&amp;gt;Our Mission&amp;lt;/h4&amp;gt;
+ &amp;lt;p&amp;gt;
+ Unite the automotive software community around &amp;lt;br&amp;gt;
+ ONE OPEN-SOURCE CORE”
+ &amp;lt;br&amp;gt; 
+ &amp;lt;br&amp;gt;
+ 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Reuse&amp;lt;/strong&amp;gt; “Stop
+ reinventing the wheel”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Reduce&amp;lt;/strong&amp;gt;
+ “…complexity, effort,…”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Evolve&amp;lt;/strong&amp;gt; “Build on a
+ future-proof foundation”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;about-img-card&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/car.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-our-contributors-container-section contributor-nav-dark&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 text-white fw-bold mb-3&amp;quot;&amp;gt;Our Contributors&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE is backed by a diverse network of leading automotive
+ companies, technology providers, and open-source contributors.
+ These members play a vital role in driving innovation, shaping the
+ platform’s direction, and ensuring its success across real-world
+ applications.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;contributor-slider-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel-wrapper position-relative&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel contributor-slider&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1009-web.png&amp;quot; alt=&amp;quot;Member 2&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1134-web.png&amp;quot; alt=&amp;quot;Member 3&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1550-web.png&amp;quot; alt=&amp;quot;Member 4&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/AUMOVIO.png&amp;quot; alt=&amp;quot;Member 5&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1568-web.png&amp;quot; alt=&amp;quot;Member 6&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/731-web.png&amp;quot; alt=&amp;quot;Member 1&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1572-web.png&amp;quot; alt=&amp;quot;Member 7&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1693-web.png&amp;quot; alt=&amp;quot;Member 8&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1702-web.jpg&amp;quot; alt=&amp;quot;Member 9&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/1607-web.png&amp;quot; alt=&amp;quot;Member 10&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/capgemini.jpg&amp;quot; alt=&amp;quot;Member 10&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/IAV.png&amp;quot; alt=&amp;quot;Member 10&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/members/validas.png&amp;quot; alt=&amp;quot;Member 10&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-prev&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-left.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-next&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-right.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-structure-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;S-CORE Community Structure&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE brings together members, technical leads, and specialized
+ teams to define and manage modules, propose requirements, and
+ ensure the platform evolves with clarity and purpose.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;structure-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;zoom-image-wrapper&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;panzoom-container&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/structure_new.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;zoom-image&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-steering-committees-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;Steering Committees&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Every core member can name a project lead. Project leads are
+ representatives of their entities, and jointly they´re steering
+ the project. Because of the project´s size, an additional role
+ “technical leads” was introduced in S-Core. Each project lead can
+ nominate one technical lead to support in operational topics like
+ project planning. In order to run the project, there are two major
+ committees:
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Technical Lead &amp;lt;span class=&amp;quot;fw-normal&amp;quot;&amp;gt;Circle&amp;lt;/span&amp;gt;
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/technical-lead-circle.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;img-fluid&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ The Technical Steering Committee (TSC) is responsible for the
+ overall technical direction of the project. It ensures that
+ the project remains aligned with its goals and objectives, and
+ it provides guidance on technical decisions.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Project Lead &amp;lt;span class=&amp;quot;fw-normal&amp;quot;&amp;gt;Circle&amp;lt;/span&amp;gt;
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/project-lead-circle.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;img-fluid&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ The Project Management Committee (PMC) is responsible for the
+ day-to-day management of the project. It oversees the
+ project's progress, manages resources, and ensures that
+ deadlines are met.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3 text-white&amp;quot;&amp;gt;Communities&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Every S-CORE community has its focus topic, and every S-CORE
+ member is free to join, discuss and to shape the outcome.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;communities-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/SoftwareArchitecture.svg&amp;quot;
+ alt=&amp;quot;Software Architecture&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Software Architecture&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ 
+ In this community, the overall software architecture of our
+ stack is planned. Join here to get the recent information about
+ next features for S-CORE. .
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/SoftwareDevelopmentProcess.svg&amp;quot;
+ alt=&amp;quot;Software Development Process&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Software Development Process&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ Due to our goal to deliver a stack which is safety certifiable,
+ we need well defined software development processes. This
+ community is continuously designing &amp;amp; improving our processes.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/Infrastructure.svg&amp;quot;
+ alt=&amp;quot;Infrastructure&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Infrastructure&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ To enable a fast and reliable development, this community is
+ setting up the build infrastructure, the tooling, process
+ enabling, the CI/CD pipelines, and more…
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/Testing.svg&amp;quot; alt=&amp;quot;Testing&amp;quot; /&amp;gt;
+ &amp;lt;h3&amp;gt;Testing&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ To meet our quality goals, S-CORE needs to be tested – In this
+ community, experienced test managers and testers are ensuring
+ exactly this.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/MarketingCommunication.svg&amp;quot;
+ alt=&amp;quot;Marketing &amp;amp; Communication&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Marketing &amp;amp; Communication&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE can only be successful, when more and more members are
+ joining! – This community ensures, that the great results
+ -provided by S-CORE teams- are communicated to the automotive
+ community.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-community-voices-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;
+ Community Voices – What Our Members Say
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Community Voices captures insights and experiences from our
+ members, highlighting their role in shaping the platform and
+ driving innovation within the S-CORE ecosystem. Their feedback
+ reflects the impact, collaboration, and shared vision that fuel
+ our open-source journey.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-voices-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel-wrapper position-relative&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel about-us-slider&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/mikem.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Mike Milinkovich&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;Executive Director of the Eclipse Foundation&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ With S-CORE, we’re providing developers with a reliable, safety-grade runtime environment that allows the industry to focus on innovation while reducing duplication of effort. This project offers the entire sector a jumpstart in building the custom solutions that will define the future of mobility
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/antonk.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Anton Krivoborodov&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;Technical Project Lead - BMW&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ With S-Core, we can shape the future of the Safe-POSIX platform with the support of a strong open-source community.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/Markus S.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Markus Schupfner&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CEO Qorix&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE is more than a project – it’s the foundation of an open, collaborative future for automotive software. As a founding contributor and distributor, Qorix is proud to shape a platform that turns shared challenges into shared progress.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/sven.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Sven Kappel&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;Head of ETAS.NEXT&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ At ETAS, we believe in the transformative potential of open collaboration in driving software innovation. 
+ As a founding member of Eclipse S-CORE, we are committed to shaping a robust platform that fosters seamless integration, 
+ sustainable development processes, and cutting-edge solutions empowering tomorrow's automotive software
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/lars.jfif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Lars Bauhofer&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;Product Program Manager - Qorix&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE makes collaboration tangible. From architecture workshops to release planning – we’re actively building the stack, aligning teams, and turning code into common ground.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/nico.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Dr. Nico Hartmann&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CTO - Qorix&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ Contributing to S-CORE means contributing to what matters: deterministic execution, safety by design, and reusable infrastructure. We bring the middleware expertise – and we’re here to make it usable at scale. 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-prev&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-left.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-next&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-right.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/articles.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/articles.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="articles.html">Articles &amp; News&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="townhalls.html">Townhalls&lt;/a>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+&lt;pre>&lt;code> &amp;lt;section
+ class=&amp;quot;esc-section esc-news-container-section pt-0 min-vh-100 mt-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
+ &amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/s-core_05_release_teaser.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Nov 6th, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ Eclipse S-CORE 0.5 – What’s inside the first public release.
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Source: Eclipse SDV WG Linkedin &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ The first version of Eclipse S-CORE (Safe Open Vehicle Core) lays the groundwork for open, safety-ready automotive software.&amp;lt;br/&amp;gt;
+ 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://www.linkedin.com/posts/software-defined-vehicle_s-core-05-release-activity-7392145693861363712-JWqw&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;
+ Read More and Discuss
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
+ &amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/EF_Newsletter_2025_09.PNG&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Sept 30, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ Eclipse S-CORE: A new approach to building automotive software together
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ by Valerie Hasler and Memsud Godinjak 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://newsroom.eclipse.org/eclipse-newsletter/2025/september/eclipse-s-core-new-approach-building-automotive-software-together&amp;quot;
+ &amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;#&amp;quot;
+ &amp;gt;
+ Show More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-section esc-roadmap-1-container-section">
+ &lt;div class="container">
+ &lt;div
+ class="pages-title mb-4 d-flex flex-wrap align-items-center justify-content-between"
+ >
+ &lt;h2 class="h2 fw-semibold">Eclipse S-Core Building Blocks&lt;/h2>
+&lt;pre>&lt;code> &amp;lt;div class=&amp;quot;roadmap-modules d-flex flex-wrap gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-module d-flex align-items-center gap-2&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;color v-0-5&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;module-name&amp;quot;&amp;gt;S-CORE v0.5 module &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-module d-flex align-items-center gap-2&amp;quot;&amp;gt;
+ &amp;lt;span class=&amp;quot;color v-1-0&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+
+ &amp;lt;span class=&amp;quot;module-name&amp;quot;&amp;gt;S-CORE v1.0 module &amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;roadmap-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-container mt-4 d-flex flex-column gap-4&amp;quot;&amp;gt;
+ &amp;lt;p class=&amp;quot;main-desc&amp;quot;&amp;gt;
+ This section provides a schematic overview of the technical building blocks that form the foundation of our platform. 
+ Here, you’ll find a clear differentiation between S-CORE modules available in version 0.5 and those planned for version 1.0. &amp;lt;br/&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;zoom-image-wrapper&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;panzoom-container&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/docs/roadmap-1-3x.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;zoom-image&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-roadmap-2-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-semibold&amp;quot;&amp;gt;S-Core Project Roadmap&amp;lt;/h2&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-container mt-4 d-flex flex-column gap-4&amp;quot;&amp;gt;
+ &amp;lt;p class=&amp;quot;main-desc&amp;quot;&amp;gt;
+ Get athe development and release timeline of Eclipse S-CORE. It shows the key phases that shape the platform’s evolution—starting from early development to achieving maturity and stability. 
+ Gain an understanding of how each phase contributes to delivering a scalable and reliable platform.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;zoom-image-wrapper&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;panzoom-container&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/docs/roadmap-2-3x.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;zoom-image&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-documentation-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold&amp;quot;&amp;gt;Build &amp;amp; Documentation Toolchain&amp;lt;/h2&amp;gt;
+ &amp;lt;p class=&amp;quot;main-desc&amp;quot;&amp;gt;
+ The build system uses Bazel to automate workflows like repository
+ cloning, software builds, documentation generation, testing, and
+ more. Documentation is managed with Sphinx and sphinx-needs, while
+ diagrams are created using PlantUML and draw.io. Supported
+ languages include C++ and Rust, with testing handled by
+ gtest/gmock.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;roadmap-container mt-4 d-flex flex-column gap-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;zoom-image-wrapper&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;panzoom-container&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/docs/documentation-3x.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;zoom-image&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Check out our GitHub Project
+ 
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/faq.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/faq.html</guid><description>&lt;main class="main-section p-0 d-flex flex-column">
+&lt;pre>&lt;code> &amp;lt;section class=&amp;quot;main-section p-0 d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;br/&amp;gt;
+ 
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Get quick answers to the most common questions about S-CORE. Whether you're just starting or deep into development, 
+ our FAQs cover everything from training schedules to platform usage — helping you find what you need without the hassle.
+ &amp;lt;/p&amp;gt;
+ 
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-faq-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ 
+
+ 
+ &amp;lt;ul
+ class=&amp;quot;nav nav-pills faq-tabs rounded-tabs-container rounded-pill overflow-hidden mb-4 d-flex text-center&amp;quot;
+ id=&amp;quot;faqTab&amp;quot;
+ role=&amp;quot;tablist&amp;quot;
+ &amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link active w-100&amp;quot;
+ id=&amp;quot;general-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#general&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ General Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link w-100&amp;quot;
+ id=&amp;quot;technical-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#technical&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ Technical Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link w-100&amp;quot;
+ id=&amp;quot;contribution-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#contribution&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ Contribution Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-content&amp;quot; id=&amp;quot;faqTabContent&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade show active&amp;quot; id=&amp;quot;general&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionGeneral&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What is the main purpose of the S-CORE project?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The S-CORE project serves as the central integration platform for various software modules. It ensures proper integration, provides common guidelines, mechanisms like build toolchains, and addresses overarching topics such as roadmap and milestone planning.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What is the role of cross-functional teams in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Cross-functional teams are responsible for all phases of work, from defining architecture to conducting integration tests. They are usually assigned to the S-CORE main integration project or specific software modules 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What are the roles within a cross-functional team?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ A cross-functional team consists of Project Leads, Safety Managers, Quality Managers, Security Managers, Committers, and Contributors 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How is project management structured in S-CORE?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Project management involves coordination between various technical committees, discussing technical decisions, architectural topics, and coordination of public relations .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are releases and milestones managed within S-CORE ?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Releases and milestones are defined by Technical Leads and approved by Project Leads. Milestones mark important project stages, while releases structure development activities.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What platforms does S-CORE use for its development processes?
+
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ S-CORE utilizes GitHub for hosting, versioning, and contribution, and uses tools such as Sphinx for documentation .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are platform features documented?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Platform features are documented with requirements and architecture in the S-CORE main repository, which contains the integration repository
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-8&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-8&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-8&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are decisions about project leads and committers made?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-8&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-8&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Project leads and committers are elected using the main integration S-CORE project mailing list, based on contributions and reputation within the project .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;technical&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionTechnical&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;Is Eclipse S-CORE suitable for 32-bit Microcontrollers?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Eclipse S-CORE is primarily designed and optimized for **High-Performance Computing Platforms (HCPs)** in automotive applications. The platform's components are architected to leverage dynamic memory management, process isolation, and the rich feature sets provided by safety-critical operating systems such as Linux and QNX.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What programming languages are supported by S-CORE?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ S-CORE supports C++ with the language set of C++17, considering additional elements from C++20 as needed. Rust is also supported with its safe subset.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What are the Change Request types in the S-CORE project?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Change Request types include Feature, Feature Modification, Component, and Component Modification .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How are Change Request Attributes defined in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Change Request Attributes include Unique ID, Status, Title, Description, Safety, Security, Change Request Type, Affected work products, and Milestones .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What tool is mainly used for development and documentation?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ GitHub is used for hosting, versioning, contribution, and documentation via Sphinx .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What is the significance of the Technical Lead?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Technical Leads manage the platform development, control multiple modules, and handle escalations .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How is safety managed in the components of S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Safety is ensured through assumptions of use and a general safety concept outlined in the safety documentation .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How are platform features and components integrated?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Features and components are integrated into the platform using change requests and verified through tests .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-8&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-8&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-8&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What are the criteria for reporting a problem in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-8&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-8&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Problems are reported through GitHub Issues, including documentation and resolution planning.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;contribution&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionContribution&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ What is the process for submitting a feature request in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Contributions require exhaustive descriptions, requirements, and sometimes initial architecture drafts submitted as Feature Requests 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions accepted or declined in the project?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Feature Requests are reviewed by the Technical Lead Circle before acceptance or declination 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How should contributors handle their Eclipse Foundation account?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Contributors should create an account using corporate email, link it to their employer, and ensure proper email configuration with Git 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions correctly attributed to organizations?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Proper attribution requires verifying membership information in the Eclipse Membership Portal and ensuring corporate email usage .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ What documentation covers contribution requests?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The Contribution Request Guideline details the process of submitting new features and tools .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions reviewed?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Regular reviews occur in Technical Lead Circle meetings for accepting or declining contributions .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ Who is responsible for maintaining the backlog and roadmap?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The Technical Lead Circle, together with software module project leads and community leads, maintains the backlog and roadmap.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;section>&lt;br>&lt;br>&lt;/section>
+ &lt;section class="esc-section esc-stay-connected-container-section pt-0">
+ &lt;div class="container">
+ &lt;div class="stay-connected-content">
+ &lt;div class="pages-title mb-4">
+ &lt;h2 class="h2 mb-3 fw-semibold text-capitalize">
+ Stay Connected with S-CORE
+ &lt;/h2>
+ &lt;p class="max-w-65">
+ Join the conversation, access exclusive resources, and follow us
+ for the latest updates.
+ &lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/how_to_contribute.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/how_to_contribute.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-section esc-who-we-are-container-section">
+ &lt;div class="container">
+ &lt;div class="row w-100 g-4">
+ &lt;div class="col-12 col-xl-6">
+ &lt;div class="who-we-are-content">
+ &lt;h2 class="h2 mb-3 fw-semibold">Who We Are&lt;/h2>
+ &lt;p class="mb-2">
+ We’re a collaborative and ever-growing community of automotive
+ experts, technology partners, developers, and innovators
+ united under the Eclipse Foundation. Together, we’re shaping
+ the future of automotive software by building open, safe, and
+ scalable solutions.
+ &lt;/p>
+&lt;pre>&lt;code> &amp;lt;div
+ class=&amp;quot;vision-and-mission-container mt-4 d-flex flex-column gap-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div
+ class=&amp;quot;vision-mission-item d-flex align-items-start gap-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/our-vision.svg&amp;quot;
+ alt=&amp;quot;Vision Icon&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-3&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4&amp;quot;&amp;gt;Our Vision&amp;lt;/h4&amp;gt;
+ &amp;lt;p&amp;gt;
+ “Build the best automotive runtime solution – ONLY
+ ONCE!”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div
+ class=&amp;quot;vision-mission-item d-flex align-items-start gap-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/our-mission.svg&amp;quot;
+ alt=&amp;quot;Vision Icon&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-3&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4&amp;quot;&amp;gt;Our Mission&amp;lt;/h4&amp;gt;
+ &amp;lt;p&amp;gt;
+ Unite the automotive software community around ONE
+ OPEN-SOURCE CORE”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Reuse&amp;lt;/strong&amp;gt; “Stop
+ reinventing the wheel”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Reduce&amp;lt;/strong&amp;gt;
+ “…complexity, effort,…”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Evolve&amp;lt;/strong&amp;gt; “Build on a
+ future-proof foundation”
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;about-img-card&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/car.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-our-contributors-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 text-white fw-bold mb-3&amp;quot;&amp;gt;Our Contributors&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE is backed by a diverse network of leading automotive
+ companies, technology providers, and open-source contributors.
+ These members play a vital role in driving innovation, shaping the
+ platform’s direction, and ensuring its success across real-world
+ applications.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;contributors-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-1.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-2.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-3.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-4.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-5.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-6.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;icon contributor-icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/contributor-7.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-structure-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;S-CORE Community Structure&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE brings together members, technical leads, and specialized
+ teams to define and manage modules, propose requirements, and
+ ensure the platform evolves with clarity and purpose.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;structure-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;zoom-image-wrapper&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;panzoom-container&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/structure.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;zoom-image&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-steering-committees-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;Steering Committees&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Every core member can name a project lead. Project leads are
+ representatives of their entities, and jointly they´re steering
+ the project. Because of the project´s size, an additional role
+ “technical leads” was introduced in S-Core. Each project lead can
+ nominate one technical lead to support in operational topics like
+ project planning. In order to run the project, there are two major
+ committees:
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Technical Lead &amp;lt;span class=&amp;quot;fw-normal&amp;quot;&amp;gt;Circle&amp;lt;/span&amp;gt;
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/technical-lead-circle.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;img-fluid&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ The Technical Steering Committee (TSC) is responsible for the
+ overall technical direction of the project. It ensures that
+ the project remains aligned with its goals and objectives, and
+ it provides guidance on technical decisions.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Project Lead &amp;lt;span class=&amp;quot;fw-normal&amp;quot;&amp;gt;Circle&amp;lt;/span&amp;gt;
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/project-lead-circle.png&amp;quot;
+ alt=&amp;quot;&amp;quot;
+ class=&amp;quot;img-fluid&amp;quot;
+ /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ The Project Management Committee (PMC) is responsible for the
+ day-to-day management of the project. It oversees the
+ project's progress, manages resources, and ensures that
+ deadlines are met.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3 text-white&amp;quot;&amp;gt;Communities&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Every S-CORE community has its focus topic, and every S-CORE
+ member is free to join, discuss and to shape the outcome.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;communities-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/SoftwareArchitecture.svg&amp;quot;
+ alt=&amp;quot;Software Architecture&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Software Architecture&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ In this community, the overall software architecture of our
+ stack is planned. Join here to get the recent information about
+ next features for S-CORE. .
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/SoftwareDevelopmentProcess.svg&amp;quot;
+ alt=&amp;quot;Software Development Process&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Software Development Process&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ Due to our goal to deliver a stack which is safety certifiable,
+ we need well defined software development processes. This
+ community is continuously designing &amp;amp; improving our processes.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/Infrastructure.svg&amp;quot;
+ alt=&amp;quot;Infrastructure&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Infrastructure&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ To enable a fast and reliable development, this community is
+ setting up the build infrastructure, the tooling, process
+ enabling, the CI/CD pipelines, and more…
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/Testing.svg&amp;quot; alt=&amp;quot;Testing&amp;quot; /&amp;gt;
+ &amp;lt;h3&amp;gt;Testing&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ To meet our quality goals, S-CORE needs to be tested – In this
+ community, experienced test managers and testers are ensuring
+ exactly this.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/about-us/MarketingCommunication.svg&amp;quot;
+ alt=&amp;quot;Marketing &amp;amp; Communication&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Marketing &amp;amp; Communication&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE can only be successful, when more and more members are
+ joining! – This community ensures, that the great results
+ -provided by S-CORE teams- are communicated to the automotive
+ community.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-community-voices-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;
+ Community Voices – What Our Members Say
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Community Voices captures insights and experiences from our
+ members, highlighting their role in shaping the platform and
+ driving innovation within the S-CORE ecosystem. Their feedback
+ reflects the impact, collaboration, and shared vision that fuel
+ our open-source journey.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-voices-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel-wrapper position-relative&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel about-us-slider&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/user.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Serhiy Hipskyy&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CEO Universal&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;rate d-flex align-items-center gap-1&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ On the other hand, we denounce with righteous indignation
+ and dislike men who are so beguiled and.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/user.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Serhiy Hipskyy&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CEO Universal&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;rate d-flex align-items-center gap-1&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ On the other hand, we denounce with righteous indignation
+ and dislike men who are so beguiled and.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/user.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Serhiy Hipskyy&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CEO Universal&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;rate d-flex align-items-center gap-1&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ On the other hand, we denounce with righteous indignation
+ and dislike men who are so beguiled and.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-header&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;user-data d-flex align-items-center gap-3 mb-2&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;image&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/about-us/user.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;username&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;name&amp;quot;&amp;gt;Serhiy Hipskyy&amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;role&amp;quot;&amp;gt;CEO Universal&amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;rate d-flex align-items-center gap-1&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;star&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/empty-star.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body&amp;quot;&amp;gt;
+ &amp;lt;p&amp;gt;
+ On the other hand, we denounce with righteous indignation
+ and dislike men who are so beguiled and.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-prev&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-left.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-next&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-right.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/news.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/news.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="news.html">Conferences&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="articles.html">Articles &amp; News&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="townhalls.html">Townhalls&lt;/a>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+&lt;pre>&lt;code> &amp;lt;section
+ class=&amp;quot;esc-section esc-news-container-section pt-0 min-vh-100 mt-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Conferences&amp;lt;/h5&amp;gt;
+
+
+
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/SIA_logo.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;5 Feb, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ SIA 2026 | Future Proofing SDV Study Day, &amp;lt;br&amp;gt; Paris, France
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Presenter: Björn Reistel (ETAS) &amp;lt;br&amp;gt;
+ Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://www.sia.fr/evenements/404-study-day-future-proofing-sdv&amp;quot;
+ &amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+
+
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/OCX26.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;21-23 Apr, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ OCX 2026 | Open Community Exceprience, &amp;lt;br&amp;gt; Brussels, Belgium
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Presenter: tbd. &amp;lt;br&amp;gt;
+ Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://www.ocxconf.org/event/2026/summary&amp;quot;
+ &amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+
+
+
+ 
+ 
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;#&amp;quot;
+ &amp;gt;
+ Show More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
+ 
+
+ &amp;lt;div class=&amp;quot;top-picks-container&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Previous Conferences&amp;lt;/h5&amp;gt;
+
+
+
+ &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-community-meetup-japan-co-hosted-by-bosch-group-tickets-1540218427779&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/EclipseMeetupJapan.jfif&amp;quot; alt=&amp;quot;Top Picks&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;11 Dec, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;Eclipse SDV Community Meetup, &amp;lt;br&amp;gt;
+ Japan/ Yokohama (BOSCH)&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Sven Kappel (ETAS) &amp;lt;br&amp;gt;
+ Topic: &amp;quot;S-CORE, a holistic approach for automotive towards open source.&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt; 
+
+
+ &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-south-korea-lg-tickets-1742261403759&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/EF_MeetUp_KR.PNG&amp;quot; alt=&amp;quot;Top Picks&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;04 Dec, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;Eclipse SDV Community Meetup, &amp;lt;br&amp;gt;
+ Korea/ Seoul (LG)&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Memsud Godinjak (BMW), &amp;lt;br&amp;gt;
+ Björn Reistel (ETAS) &amp;lt;br&amp;gt;
+ Topic: &amp;quot;S-CORE, a holistic approach for automotive towards open source.&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt; 
+ 
+ 
+ &amp;lt;a
+ href=&amp;quot;https://www.exida-eu.com/images/home/exida%20Automotive%20Symposium%202025-V04.pdf&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/exida_Symposium.webp&amp;quot; alt=&amp;quot;Top Picks&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;27-29 Oct, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Exida Automotive Symposium, Spitzingsee &amp;lt;br&amp;gt;
+ Presenter: Markus Schu (Accenture) &amp;lt;br&amp;gt;
+ Topic: &amp;quot;Achieving Functional Safety with Open-Source Software in Automotivee&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt; 
+
+ &amp;lt;a
+ href=&amp;quot;https://www.vdi-wissensforum.de/eliv/&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/ELIV.png&amp;quot; alt=&amp;quot;Top Picks&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;15-16 Oct, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ ELIV 2025, Bonn &amp;lt;br&amp;gt;
+ Panel: Acceleration: How Open Source will Transform the Automotive industry 
+ Moderation: Michael Plagge, Eclipse Foundation Europe 
+ Panelist: Participants to be confirmed.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt; 
+
+
+ &amp;lt;a
+ href=&amp;quot;#&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/Eclipse_Detroit.PNG&amp;quot; alt=&amp;quot;Top Picks&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;07 Oct, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Eclipse SDV Community Meetup, Detroit &amp;lt;br&amp;gt;
+ TOP: &amp;quot;Topic: Eclipse S-CORE – Why join? What to expect and how to get involved!&amp;quot; &amp;lt;br&amp;gt;
+ Presenter: Thomas Fleischmann (Accenture)
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/aside&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/press_releases.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/press_releases.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="press_releases.html">Press Releases&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="articles.html">Articles &amp; Events&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="townhalls.html">Townhalls&lt;/a>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+&lt;pre>&lt;code> &amp;lt;section class=&amp;quot;esc-section esc-news-container-section pt-0 min-vh-100 mt-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+
+ &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Nov 12, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;p&amp;gt;
+ Source: Eclipse S-CORE Project
+ &amp;lt;/p&amp;gt;&amp;lt;/br&amp;gt;
+
+ &amp;lt;h4 class=&amp;quot;h4 mb-3&amp;quot;&amp;gt;
+ Eclipse S-CORE (Eclipse Safe Open Vehicle Core) Project unites with Qualcomm to Advance Open-Source Middleware for Next-Gen Vehicles
+ &amp;lt;/h4&amp;gt;&amp;lt;/br&amp;gt;
+ &amp;lt;p&amp;gt;
+ November 12th, 2025 — The Eclipse Safe Open Vehicle Core (S-CORE) project today announced the active participation of Qualcomm Technologies, Inc. as a new member of its open-source community.
+ By leveraging Qualcomm Technologies Inc.’s Snapdragon® Digital Chassis™ solutions, S-CORE will run seamlessly on Qualcomm Technologies’ established high-performance hardware for future software-defined vehicles (SDVs). This collaboration further expands the reach of the S-CORE community, as a significant share of today’s safety-critical and secure automotive systems already rely on Qualcomm Technologies’ hardware.&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+
+ Hosted by the Eclipse Foundation under the purview of the Eclipse Software Defined Vehicle Working Group, Eclipse S-CORE, is an open-source initiative delivering a shared, safety-aligned middleware platform for high-performance automotive compute platforms. Developed by leading automotive and software companies — including Accenture GmbH, Aumovio SE, BMW Group, Elektrobit Automotive GmbH, ETAS GmbH, Mercedes-Benz Tech Innovation GmbH, Qualcomm Technologies, Inc., and Qorix GmbH — S-CORE provides a scalable, modular, and interoperable foundation for safety-critical components, reducing duplication, accelerating SDV development, and promoting industry-wide standardization.&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+
+ “Open collaboration is at the heart of solving the growing complexity of modern vehicle software,” said Mike Milinkovich, executive director of the Eclipse Foundation. “Through Eclipse S-CORE, we’re building a fully open, safety-aligned middleware foundation that helps automakers and suppliers focus on innovation instead of duplication. We’re delighted to welcome Qualcomm Technologies to this global community and the important work ahead.”&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+
+ “Qualcomm Technologies’ engagement with S-CORE represents a pivotal step toward democratizing access to high-performance automotive middleware,” said Laxmi Rayapudi, VP, Product Management, Qualcomm Technologies, Inc. “By aligning our Snapdragon Digital Chassis solutions with the S-CORE community, we’re empowering automakers and Tier-1 suppliers to innovate faster and deliver intelligent, connected, and safer vehicles.”&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+
+ The S-CORE project aims to establish a vendor-neutral, open-source software stack that addresses the increasing complexity of software-defined vehicles. Qualcomm Technologies’ contribution will streamline development workflows, reduce time-to-market, and foster a vibrant ecosystem of automotive software innovation — reinforcing the community’s shared vision to enable AI-driven, software-centric mobility at global scale.&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+
+ Snapdragon and Digital Chassis are trademarks or registered trademarks of Qualcomm Incorporated.&amp;lt;/br&amp;gt;
+ Snapdragon Digital Chassis is a product of Qualcomm Technologies, Inc. and/or its subsidiaries.&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
+ &amp;lt;p/&amp;gt;
+
+ &amp;lt;center&amp;gt;&amp;lt;h5 class=&amp;quot;h5 mb-3&amp;quot;&amp;gt;Eclipse S-CORE: &amp;quot;Open by Choice. Safe by Design.&amp;quot;&amp;lt;/h5&amp;gt;&amp;lt;/center&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
+ &amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/EF_PressRelease_on_QNX.PNG&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Jun 12, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ The Eclipse Foundation Launches the S-CORE Project: The Automotive Industry's First Open Source Core Stack for Software-Defined Vehicles
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Source: Eclipse Foundation Canada
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://www.globenewswire.com/news-release/2025/06/12/3098131/0/en/The-Eclipse-Foundation-Launches-the-S-CORE-Project-The-Automotive-Industry-s-First-Open-Source-Core-Stack-for-Software-Defined-Vehicles.html&amp;quot; 
+ target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;
+ &amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
+ &amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/QNX_PressRelease.PNG&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;18 Jun, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ QNX to Serve as Foundational Operating System for Eclipse Safe Open Vehicle Core (S-CORE) Project
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Source: BlackBerry Media Relations
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://feeds.issuerdirect.com/news-release.html?newsid=5917728836963387&amp;amp;symbol=BB,BB:CA&amp;quot;
+ target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;#&amp;quot;
+ &amp;gt;
+ Show More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/reference-implementation.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/reference-implementation.html</guid><description>&lt;main class="main-section p-0 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="training-modules.html"
+ >How to Collaborate&lt;/a
+ >
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="reference-implementation.html"
+ >How to Contribute&lt;/a
+ >
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="#"> &lt;/a>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+&lt;pre>&lt;code> &amp;lt;section
+ class=&amp;quot;esc-section esc-reference-implementations-container-section pt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
+ How to get in contact with S-CORE
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ If you want to get into contact with S-CORE, these are your primary entry points: &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Project Mailing List:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;mailto:score-dev@eclipse.org&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;score-dev@eclipse.org 
+ &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
+
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Architectural Discussion:&amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;https://join.slack.com/t/sdvworkinggroup/shared_invite/zt-3c5ied1nk-Mk87s4kOX7ipcNo_VktlWg&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Join SDV's slack workspace&amp;lt;/a&amp;gt; and jump to 
+ &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;#score-project-channel-public 
+ 
+ &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
+ 
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Eclipse S-CORE Project Office Hours: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ 
+ &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Monday 13.00 - 14.00 (Weekly)
+ 
+ &amp;lt;/a&amp;gt; 
+ &amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Find all our meetings: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Open Eclipse community calendar
+ 
+ &amp;lt;/a&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;br/&amp;gt; 
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;General Information / Alignment regarding S-CORE as a basis for distributions &amp;amp; products: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ 
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Contact one of the project leads of SCORE
+ 
+ &amp;lt;/a&amp;gt; 
+ &amp;lt;/p&amp;gt;
+ 
+ &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3 text-white&amp;quot;&amp;gt;
+ How to start your Contribution Journey
+ &amp;lt;/h2&amp;gt;
+ 
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Active Contributions to the S-CORE project are the basis for getting involved. 
+ The S-CORE Project works according to the Eclipse Project Handbook and has named and elected project leads and committers 
+ (see 
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Eclipse Safe Open Vehicle Core 
+ &amp;lt;/a&amp;gt; 
+ ). &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;The direction of the S-CORE project is discussed and decided in the project lead circle, 
+ the technical direction is created and upfront in the tech lead circle. Meeting notes are transparent via the
+
+ &amp;lt;a href=&amp;quot;https://github.com/orgs/eclipse-score/discussions&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;S-CORE GitHub Discussions. 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ We aim to build a safety ready full stack architecture, 
+ where components fit to each other in automotive grade Software Quality and performance. To achieve this, we follow a strict
+ 
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/score_releases/index.html#releases&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;feature roadmap and architecture 
+ &amp;lt;/a&amp;gt; 
+ and a rigid
+
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/process_description/main/index.html&amp;quot; class=&amp;quot;read-more main-primary target=&amp;quot;_blank&amp;quot;
+ &amp;gt; software development process 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Contributions to the S-CORE project must therefore follow the technical direction of the project and the S-CORE architecture. 
+ For an introduction on how to contribute, please check out our 
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/contribute/index.html&amp;quot; class=&amp;quot;read-more main-primary target&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;How to Contribut Guideline. 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;/p&amp;gt;
+ 
+ 
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt; 
+ 
+ &amp;lt;section&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-stay-connected-container-section pt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;stay-connected-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
+ Stay Connected with S-CORE
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-65&amp;quot;&amp;gt;
+ Join the conversation, access exclusive resources, and follow us
+ for the latest updates.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;row g-3 mt-4 px-4&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;
+ &amp;gt;
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;&amp;quot; download
+ &amp;gt;&amp;lt;img
+ src=&amp;quot;images/campus/share.svg&amp;quot;
+ alt=&amp;quot;Join Icon&amp;quot;
+ width=&amp;quot;48&amp;quot;
+ class=&amp;quot;me-3 icon&amp;quot;
+ /&amp;gt;&amp;lt;/a&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Join S-CORE&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-0&amp;quot;&amp;gt;Connect With Us!&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;
+ &amp;gt;
+ &amp;lt;a href=&amp;quot;news.html&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;&amp;lt;img
+ src=&amp;quot;images/campus/document-download.svg&amp;quot;
+ alt=&amp;quot;Download Icon&amp;quot;
+ width=&amp;quot;48&amp;quot;
+ class=&amp;quot;me-3 icon&amp;quot;
+ /&amp;gt;&amp;lt;/a&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Stay up to date!&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-2&amp;quot;&amp;gt;Read our latest news!&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;me-3 d-flex gap-2&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.linkedin.com/showcase/software-defined-vehicle/posts/?feedView=all&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+ &amp;lt;img
+ class=&amp;quot;icon&amp;quot;
+ src=&amp;quot;images/campus/mage_linkedin.svg&amp;quot;
+ alt=&amp;quot;LinkedIn&amp;quot;
+ width=&amp;quot;48&amp;quot;
+ /&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+ &amp;lt;img
+ class=&amp;quot;icon&amp;quot;
+ src=&amp;quot;images/campus/slack.svg&amp;quot;
+ alt=&amp;quot;Slack&amp;quot;
+ width=&amp;quot;48&amp;quot;
+ /&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Follow Us&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-0&amp;quot;&amp;gt;
+ Stay in the loop on all platforms!
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/townhalls.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/townhalls.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link" href="articles.html">Articles &amp; Events&lt;/a>
+ &lt;/li>
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="townhalls.html">Townhalls&lt;/a>
+ &lt;/li>
+ &lt;/ul>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+&lt;pre>&lt;code> &amp;lt;section
+ class=&amp;quot;esc-section esc-news-container-section pt-0 min-vh-100 mt-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
+ &amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/blog-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Apr 11, 2025&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
+ Eclipse S-CORE Townhall
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Background information to S-CORE and Q&amp;amp;A session. 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;https://www.eclipse.org/lists/sdv-wg/msg00674.html&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;
+ &amp;gt;
+ Read More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
+ &amp;lt;a
+ class=&amp;quot;show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center&amp;quot;
+ href=&amp;quot;#&amp;quot;
+ &amp;gt;
+ Show More
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/training-modules.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/training-modules.html</guid><description>&lt;main class="main-section p-0 d-flex flex-column">
+ &lt;section class="esc-pages-section nav-tabs-section">
+ &lt;div class="container">
+ &lt;div class="nav-tabs-wrapper">
+ &lt;ul class="nav nav-tabs">
+ &lt;li class="nav-item">
+ &lt;a class="nav-link active" href="training-modules.html"
+ >How to Collaborate&lt;/a
+ >
+ &lt;/li>
+&lt;pre>&lt;code> &amp;lt;li class=&amp;quot;nav-item&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;nav-link&amp;quot; href=&amp;quot;reference-implementation.html&amp;quot;
+ &amp;gt;How to Contribute&amp;lt;/a
+ &amp;gt;
+ &amp;lt;/li&amp;gt; 
+ 
+ &amp;lt;li class=&amp;quot;nav-item&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;nav-link&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ 
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-training-modules-container-section pt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
+ Start Your Contribution Journey
+ &amp;lt;/h2&amp;gt;
+ 
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Dive into the S-CORE contributor community by adhering to our guiding principles. 
+ We strive for &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;impactful, efficient contributions &amp;lt;/strong&amp;gt; that evolve the project without 
+ redundancy while connected to the &amp;quot;Development Workflow”.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Learn how the stack works — from core systems to application
+ support.
+ &amp;lt;/p&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3 text-white&amp;quot;&amp;gt;Our Guiding Principles&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ S-CORE is built upon core principles that champion inclusivity, efficiency, and innovation within the open source automotive software community. 
+ Our collaborative framework welcomes contributions from everyone, paving the way for more advanced and robust solutions. 
+ Below are the guiding principles that steer the S-CORE ecosystem
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;communities-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/campus/01_community.svg&amp;quot;
+ alt=&amp;quot;Evolve, Everybody Can Join:&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Evolve, Everybody Can Join:&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ We recognize the power of collective intelligence and the strength of diverse contributions. 
+ Everyone is welcome to participate, use, and join S-CORE, fostering a vibrant community united by shared goals and mutual growth.
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/campus/02_no_reimpl.svg&amp;quot;
+ alt=&amp;quot;No Re-Implementation:&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;No Re-Implementation:&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ Our approach leverages existing solutions to optimize development processes. 
+ By building on established findings and methodologies, we avoid redundancy, focusing our efforts on crafting innovative and efficient solutions.
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/campus/03_working_model.svg&amp;quot;
+ alt=&amp;quot;Working Model - Shift Left:&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Working Model - Shift Left:&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ We adopt a proactive development model that prioritizes early testing and integration, 
+ ensuring high quality and minimizing risks throughout the software lifecycle.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/04_eco_system.svg&amp;quot; alt=&amp;quot;S-CORE Ecosystem:&amp;quot; /&amp;gt;
+ &amp;lt;h3&amp;gt;S-CORE Ecosystem:&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ Our ecosystem thrives on collaboration and co-creation across various stakeholders, including universities, 
+ industry partners, and EU commissions. We encourage dynamic contributions and collective efforts to achieve shared objectives.
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
+ &amp;lt;img
+ src=&amp;quot;images/campus/05_engage.svg&amp;quot;
+ alt=&amp;quot;Engage and Get Involved:&amp;quot;
+ /&amp;gt;
+ &amp;lt;h3&amp;gt;Engage and Get Involved:&amp;lt;/h3&amp;gt;
+ &amp;lt;p&amp;gt;
+ Join us on this transformative journey and explore opportunities to contribute to S-CORE's evolution. Visit our Get Involved pages for more details, 
+ and learn about the S-CORE structure by browsing the About Us section for comprehensive insights.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-steering-committees-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;Broaden Your Impact Beyond Code&amp;lt;/h2&amp;gt;
+ &amp;lt;p&amp;gt;
+ Become actively involved with S-CORE — we are committed to continuous improvement through open collaboration. 
+ Engage with a community of innovators and explore opportunities to contribute to ongoing projects and development processes.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-content mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Community Participation
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ Extend your influence beyond code. Engage with the community through participation, 
+ and contribute to various initiatives that support S-CORE's evolution.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+ Ways to Participate&amp;lt;br&amp;gt;
+ Documentation enhancements improve project understanding and usability. &amp;lt;br&amp;gt;
+ Event Participation: Involve yourself in community events, discussions and workshops.&amp;lt;br&amp;gt;
+ Specialized Working Groups: Bring in your specific knowledge on processes, safety etc.&amp;lt;br&amp;gt;
+ Feedback and Testing: Offer insights within the for project improvement. &amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
+ Community Engagement
+ &amp;lt;/h4&amp;gt;
+ &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;p&amp;gt;
+ Connect and Collaborate
+ Engage in lively discussions within the S-CORE community, sharing insights and collaboratively tackling challenges. 
+ The community fosters innovation and collective growth. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+ A Vibrant Hub of Interaction&amp;lt;br&amp;gt;
+ Join forums and contribute to dialogue.&amp;lt;br&amp;gt;
+ Engagement Platforms&amp;lt;br&amp;gt;
+ Forums and Channels: Discuss topics, share knowledge, and evolve solutions.&amp;lt;br&amp;gt;
+ Feedback Mechanism: Receive updates and contribute insights to active projects.&amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+
+ &amp;lt;section class=&amp;quot;esc-section esc-learning-tutorials-container-section&amp;quot;&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+ &amp;lt;section class=&amp;quot;esc-section esc-faq-container-section&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
+ Frequently Asked Questions
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p class=&amp;quot;main-desc&amp;quot;&amp;gt;
+ Get quick answers to the most common questions about S-CORE.
+ Whether you're just starting or deep into development, our FAQs
+ cover everything from training schedules to platform usage —
+ helping you find what you need without the hassle.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;ul
+ class=&amp;quot;nav nav-pills faq-tabs rounded-tabs-container rounded-pill overflow-hidden mb-4 d-flex text-center&amp;quot;
+ id=&amp;quot;faqTab&amp;quot;
+ role=&amp;quot;tablist&amp;quot;
+ &amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link active w-100&amp;quot;
+ id=&amp;quot;general-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#general&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ General Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link w-100&amp;quot;
+ id=&amp;quot;technical-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#technical&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ Technical Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;nav-item flex-fill&amp;quot; role=&amp;quot;presentation&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;nav-link w-100&amp;quot;
+ id=&amp;quot;contribution-tab&amp;quot;
+ data-bs-toggle=&amp;quot;pill&amp;quot;
+ data-bs-target=&amp;quot;#contribution&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ role=&amp;quot;tab&amp;quot;
+ &amp;gt;
+ Contribution Questions
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-content&amp;quot; id=&amp;quot;faqTabContent&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade show active&amp;quot; id=&amp;quot;general&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionGeneral&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What is the main purpose of the S-CORE project?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The S-CORE project serves as the central integration platform for various software modules. It ensures proper integration, provides common guidelines, mechanisms like build toolchains, and addresses overarching topics such as roadmap and milestone planning.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What is the role of cross-functional teams in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Cross-functional teams are responsible for all phases of work, from defining architecture to conducting integration tests. They are usually assigned to the S-CORE main integration project or specific software modules 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What are the roles within a cross-functional team?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ A cross-functional team consists of Project Leads, Safety Managers, Quality Managers, Security Managers, Committers, and Contributors 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How is project management structured in S-CORE?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Project management involves coordination between various technical committees, discussing technical decisions, architectural topics, and coordination of public relations .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are releases and milestones managed within S-CORE ?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Releases and milestones are defined by Technical Leads and approved by Project Leads. Milestones mark important project stages, while releases structure development activities.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ What platforms does S-CORE use for its development processes?
+
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ S-CORE utilizes GitHub for hosting, versioning, and contribution, and uses tools such as Sphinx for documentation .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are platform features documented?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Platform features are documented with requirements and architecture in the S-CORE main repository, which contains the integration repository
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;g-heading-8&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#g-collapse-8&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;g-collapse-8&amp;quot;
+ data-bs-parent=&amp;quot;#accordionGeneral&amp;quot;
+ &amp;gt;
+ How are decisions about project leads and committers made?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;g-collapse-8&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;g-heading-8&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Project leads and committers are elected using the main integration S-CORE project mailing list, based on contributions and reputation within the project .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;technical&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionTechnical&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;Is Eclipse S-CORE suitable for 32-bit Microcontrollers?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Eclipse S-CORE is primarily designed and optimized for **High-Performance Computing Platforms (HCPs)** in automotive applications. The platform's components are architected to leverage dynamic memory management, process isolation, and the rich feature sets provided by safety-critical operating systems such as Linux and QNX.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What programming languages are supported by S-CORE?
+
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ S-CORE supports C++ with the language set of C++17, considering additional elements from C++20 as needed. Rust is also supported with its safe subset.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What are the Change Request types in the S-CORE project?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Change Request types include Feature, Feature Modification, Component, and Component Modification .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How are Change Request Attributes defined in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Change Request Attributes include Unique ID, Status, Title, Description, Safety, Security, Change Request Type, Affected work products, and Milestones .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What tool is mainly used for development and documentation?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ GitHub is used for hosting, versioning, contribution, and documentation via Sphinx .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What is the significance of the Technical Lead?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Technical Leads manage the platform development, control multiple modules, and handle escalations .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How is safety managed in the components of S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Safety is ensured through assumptions of use and a general safety concept outlined in the safety documentation .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ How are platform features and components integrated?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Features and components are integrated into the platform using change requests and verified through tests .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;t-heading-8&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#t-collapse-8&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;t-collapse-8&amp;quot;
+ data-bs-parent=&amp;quot;#accordionTechnical&amp;quot;
+ &amp;gt;
+ What are the criteria for reporting a problem in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;t-collapse-8&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;t-heading-8&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Problems are reported through GitHub Issues, including documentation and resolution planning.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ 
+ &amp;lt;div class=&amp;quot;tab-pane fade&amp;quot; id=&amp;quot;contribution&amp;quot; role=&amp;quot;tabpanel&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion&amp;quot; id=&amp;quot;accordionContribution&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;row&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-1&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-1&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-1&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ What is the process for submitting a feature request in S-CORE?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-1&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-1&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Contributions require exhaustive descriptions, requirements, and sometimes initial architecture drafts submitted as Feature Requests 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-2&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-2&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-2&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions accepted or declined in the project?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-2&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-2&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Feature Requests are reviewed by the Technical Lead Circle before acceptance or declination 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-3&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-3&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-3&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How should contributors handle their Eclipse Foundation account?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-3&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-3&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Contributors should create an account using corporate email, link it to their employer, and ensure proper email configuration with Git 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-4&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-4&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-4&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions correctly attributed to organizations?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-4&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-4&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Proper attribution requires verifying membership information in the Eclipse Membership Portal and ensuring corporate email usage .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-5&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-5&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-5&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ What documentation covers contribution requests?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-5&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-5&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The Contribution Request Guideline details the process of submitting new features and tools .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-6&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-6&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-6&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ How are contributions reviewed?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-6&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-6&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ Regular reviews occur in Technical Lead Circle meetings for accepting or declining contributions .
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;div class=&amp;quot;col-md-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-item mb-3 rounded-4 shadow-sm&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;accordion-header&amp;quot; id=&amp;quot;c-heading-7&amp;quot;&amp;gt;
+ &amp;lt;button
+ class=&amp;quot;accordion-button collapsed&amp;quot;
+ type=&amp;quot;button&amp;quot;
+ data-bs-toggle=&amp;quot;collapse&amp;quot;
+ data-bs-target=&amp;quot;#c-collapse-7&amp;quot;
+ aria-expanded=&amp;quot;false&amp;quot;
+ aria-controls=&amp;quot;c-collapse-7&amp;quot;
+ data-bs-parent=&amp;quot;#accordionContribution&amp;quot;
+ &amp;gt;
+ Who is responsible for maintaining the backlog and roadmap?
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/arrow-down.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;div
+ id=&amp;quot;c-collapse-7&amp;quot;
+ class=&amp;quot;accordion-collapse collapse&amp;quot;
+ aria-labelledby=&amp;quot;c-heading-7&amp;quot;
+ &amp;gt;
+ &amp;lt;div class=&amp;quot;accordion-body&amp;quot;&amp;gt;
+ The Technical Lead Circle, together with software module project leads and community leads, maintains the backlog and roadmap.
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ 
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;section>&lt;br>&lt;br>&lt;/section>
+ &lt;section class="esc-section esc-stay-connected-container-section pt-0">
+ &lt;div class="container">
+ &lt;div class="stay-connected-content">
+ &lt;div class="pages-title mb-4">
+ &lt;h2 class="h2 mb-3 fw-semibold text-capitalize">
+ Stay Connected with S-CORE
+ &lt;/h2>
+ &lt;p class="max-w-65">
+ Join the conversation, access exclusive resources, and follow us
+ for the latest updates.
+ &lt;/p></description></item><item><title>S-CORE</title><link>https://eclipse.dev/score/blog-details.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/blog-details.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &lt;section
+ class="esc-section esc-news-details-container-section min-vh-100"
+ >
+ &lt;div class="container">
+ &lt;div class="blog-item-content">
+ &lt;div class="top-pick-date d-flex align-items-center gap-2 mb-3">
+ &lt;span class="icon d-flex align-items-center">
+ &lt;img src="images/icons/calendar.svg" alt="" />
+ &lt;/span>
+ &lt;span class="date">14 Feb, 2024&lt;/span>
+ &lt;/div>
+&lt;pre>&lt;code> &amp;lt;p&amp;gt;
+ One of the greatest advantages of open source software is its
+ community-driven nature, which brings together developers from
+ across the world. These contributors often come from vastly
+ different backgrounds, cultures, and levels of experience — yet
+ they unite around a shared goal: building better software. This
+ global collaboration leads to diverse perspectives, creative
+ problem-solving, and faster identification of bugs or security
+ flaws. Since the code is open and accessible, anyone can
+ contribute, whether it’s by writing new features, improving
+ documentation, or testing for issues. This open process allows the
+ software to evolve rapidly, often outpacing traditional
+ closed-source development. With thousands of eyes reviewing and
+ refining the code, quality tends to increase over time. The sense
+ of shared ownership among contributors also builds trust and
+ commitment within the community. Unlike proprietary systems, where
+ innovation is limited to internal teams, open source benefits from
+ decentralized innovation at scale. It’s this collaborative spirit
+ that turns open source from just code into a movement — one that’s
+ shaping the future of technology.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;recommended-blogs mt-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;esc-header esc-header-news mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2&amp;quot;&amp;gt;Recommended&amp;lt;/h2&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;esc-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel-wrapper position-relative&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;owl-carousel news-slider&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/home/news-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body p-0 py-4&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;title mb-2&amp;quot;&amp;gt;Next Eclipse Community Event&amp;lt;/h4&amp;gt;
+ &amp;lt;p class=&amp;quot;desc&amp;quot;&amp;gt;
+ Next Eclipse Community Event, June 4th 2025 in Starnberg
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-actions&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;learn-more&amp;quot; href=&amp;quot;blog-details.html&amp;quot;
+ &amp;gt;Learn More
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/right-arrow.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/home/news-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body p-0 py-4&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;title mb-2&amp;quot;&amp;gt;Next Eclipse Community Event&amp;lt;/h4&amp;gt;
+ &amp;lt;p class=&amp;quot;desc&amp;quot;&amp;gt;
+ Next Eclipse Community Event, June 4th 2025 in Starnberg
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-actions&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;learn-more&amp;quot; href=&amp;quot;blog-details.html&amp;quot;
+ &amp;gt;Learn More
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/right-arrow.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/home/news-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body p-0 py-4&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;title mb-2&amp;quot;&amp;gt;Next Eclipse Community Event&amp;lt;/h4&amp;gt;
+ &amp;lt;p class=&amp;quot;desc&amp;quot;&amp;gt;
+ Next Eclipse Community Event, June 4th 2025 in Starnberg
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-actions&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;learn-more&amp;quot; href=&amp;quot;blog-details.html&amp;quot;
+ &amp;gt;Learn More
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/right-arrow.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/home/news-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body p-0 py-4&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;title mb-2&amp;quot;&amp;gt;Next Eclipse Community Event&amp;lt;/h4&amp;gt;
+ &amp;lt;p class=&amp;quot;desc&amp;quot;&amp;gt;
+ Next Eclipse Community Event, June 4th 2025 in Starnberg
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-actions&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;learn-more&amp;quot; href=&amp;quot;blog-details.html&amp;quot;
+ &amp;gt;Learn More
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/right-arrow.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/home/news-img.jpg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body p-0 py-4&amp;quot;&amp;gt;
+ &amp;lt;h4 class=&amp;quot;title mb-2&amp;quot;&amp;gt;Next Eclipse Community Event&amp;lt;/h4&amp;gt;
+ &amp;lt;p class=&amp;quot;desc&amp;quot;&amp;gt;
+ Next Eclipse Community Event, June 4th 2025 in Starnberg
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;card-actions&amp;quot;&amp;gt;
+ &amp;lt;a class=&amp;quot;learn-more&amp;quot; href=&amp;quot;blog-details.html&amp;quot;
+ &amp;gt;Learn More
+ &amp;lt;div class=&amp;quot;icon&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/right-arrow.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-prev&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-left.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;button class=&amp;quot;custom-next&amp;quot; style=&amp;quot;display: none&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/chevron-right.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/button&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item></channel></rss>

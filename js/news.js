@@ -1,5 +1,7 @@
 $(function () {
   const $carousel = $(".news-slider");
+  const $carouselWrapper = $carousel.closest(".owl-carousel-wrapper");
+  const $navButtons = $carouselWrapper.find(".custom-prev, .custom-next");
 
   const responsiveConfig = {
     0: { items: 1 },
@@ -17,41 +19,24 @@ $(function () {
     autoplayHoverPause: true,
   });
 
-  function getVisibleItems() {
-    const winWidth = $(window).width();
-    let visibleItems = 1;
-
-    Object.keys(responsiveConfig)
-      .map(Number)
-      .sort((a, b) => a - b)
-      .forEach((bp) => {
-        if (winWidth >= bp) {
-          visibleItems = responsiveConfig[bp].items;
-        }
-      });
-
-    return visibleItems;
-  }
-
   function updateNavVisibility() {
     const data = $carousel.data("owl.carousel");
     if (!data) return;
 
     const totalItems = data._items.length;
-    const visibleItems = getVisibleItems();
 
-    if (totalItems <= visibleItems) {
-      $(".custom-prev, .custom-next").hide();
+    if (totalItems <= 1) {
+      $navButtons.hide();
     } else {
-      $(".custom-prev, .custom-next").show();
+      $navButtons.show();
     }
   }
 
-  $(".custom-next").on("click", function () {
+  $carouselWrapper.find(".custom-next").on("click", function () {
     $carousel.trigger("next.owl.carousel");
   });
 
-  $(".custom-prev").on("click", function () {
+  $carouselWrapper.find(".custom-prev").on("click", function () {
     $carousel.trigger("prev.owl.carousel");
   });
 
