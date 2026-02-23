@@ -495,89 +495,24 @@
  &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
- &amp;gt;
- &amp;lt;img src=&amp;quot;images/news/s-core_05_release_teaser.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
- &amp;gt;
- &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/span&amp;gt;
- &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Nov 6th, 2025&amp;lt;/span&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- Eclipse S-CORE 0.5 – What’s inside the first public release.
- &amp;lt;/h2&amp;gt;
- &amp;lt;p&amp;gt;
- Source: Eclipse SDV WG Linkedin &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
- &amp;lt;/p&amp;gt;
- &amp;lt;p&amp;gt;
- The first version of Eclipse S-CORE (Safe Open Vehicle Core) lays the groundwork for open, safety-ready automotive software.&amp;lt;br/&amp;gt;
- 
- &amp;lt;/p&amp;gt;
- &amp;lt;a
- class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;https://www.linkedin.com/posts/software-defined-vehicle_s-core-05-release-activity-7392145693861363712-JWqw&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;
- Read More and Discuss
- &amp;lt;/a&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;
- &amp;gt;
- &amp;lt;img src=&amp;quot;images/news/EF_Newsletter_2025_09.PNG&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
- &amp;gt;
- &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/span&amp;gt;
- &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;Sept 30, 2025&amp;lt;/span&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- Eclipse S-CORE: A new approach to building automotive software together
- &amp;lt;/h2&amp;gt;
- &amp;lt;p&amp;gt;
- by Valerie Hasler and Memsud Godinjak 
- &amp;lt;/p&amp;gt;
- &amp;lt;a
- class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;https://newsroom.eclipse.org/eclipse-newsletter/2025/september/eclipse-s-core-new-approach-building-automotive-software-together&amp;quot;
- &amp;gt;
- Read More
- &amp;lt;/a&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- 
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
- &amp;lt;a
- class=&amp;quot;show-more btn btn-primary main-outline-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;#&amp;quot;
- &amp;gt;
- Show More
- &amp;lt;/a&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
- 
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/section&amp;gt;
+ &amp;lt;!-- ========== START: S-CORE 0.6.0 Release Card (English Version) ========== --&amp;gt;
 &lt;/code>&lt;/pre>
-&lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+&lt;div class="main-blog-item-card d-flex flex-column gap-3">
+ &lt;div class="blog-item-content">
+ &lt;div class="top-pick-date d-flex align-items-center gap-2 mb-2">
+ &lt;span class="icon d-flex align-items-center">
+ &lt;img src="images/icons/calendar.svg" alt="Calendar Icon" />
+ &lt;/span>
+ &lt;!-- Adjust the date to the actual release date -->
+ &lt;span class="date">Feb 23, 2026&lt;/span>
+ &lt;/div>
+ &lt;h2 class="h2 mb-3">
+ Eclipse S-CORE v0.6.0 Milestone Released!
+ &lt;/h2>
+&lt;pre>&lt;code>&amp;lt;!-- IMPORTANT: The markdown=&amp;quot;1&amp;quot; attribute ensures the content is rendered correctly --&amp;gt;
+&amp;lt;div class=&amp;quot;card-text mb-4&amp;quot; markdown=&amp;quot;1&amp;quot;&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;p>We're excited to announce the third milestone release of Eclipse S-CORE (v0.6.0), the open-source automotive middleware platform developed within the Eclipse SDV Working Group!&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
  &lt;section class="esc-section esc-roadmap-1-container-section">
  &lt;div class="container">
  &lt;div

@@ -455,3 +455,27 @@ body .button.primary:hover {
 .main-desc {
   font-size: 1.125rem;
 }
+/* =============================================== */
+/*  STYLES FÜR LISTEN INNERHALB VON BLOG-KARTEN   */
+/* =============================================== */
+
+/* Gilt für alle Listen innerhalb des card-text Bereichs */
+.main-blog-item-card .card-text ul {
+  /* Fügt die Standard-Aufzählungszeichen wieder hinzu */
+  list-style-type: disc; 
+  /* Stellt die linke Einrückung wieder her (wichtig für die Sichtbarkeit der Punkte) */
+  margin-left: 20px; 
+  padding-left: 1rem;
+}
+
+/* Stellt sicher, dass auch verschachtelte Listen korrekt formatiert werden */
+.main-blog-item-card .card-text ul ul {
+  /* Verwendet Kreise für die zweite Ebene, wie im Browser-Standard */
+  list-style-type: circle;
+  margin-top: 0.5rem; /* Etwas Abstand zur übergeordneten Liste */
+}
+
+/* Fügt einen kleinen Abstand zwischen den Listenelementen für bessere Lesbarkeit hinzu */
+.main-blog-item-card .card-text li {
+  margin-bottom: 0.5rem;
+}
