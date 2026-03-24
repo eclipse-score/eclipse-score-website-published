@@ -495,24 +495,24 @@
  &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;!-- ========== START: S-CORE 0.6.0 Release Card (English Version) ========== --&amp;gt;
 &lt;/code>&lt;/pre>
+&lt;!-- ========== START: Call for Contributions (English Version) ========== -->
 &lt;div class="main-blog-item-card d-flex flex-column gap-3">
  &lt;div class="blog-item-content">
  &lt;div class="top-pick-date d-flex align-items-center gap-2 mb-2">
  &lt;span class="icon d-flex align-items-center">
  &lt;img src="images/icons/calendar.svg" alt="Calendar Icon" />
  &lt;/span>
- &lt;!-- Adjust the date to the actual release date -->
- &lt;span class="date">Feb 23, 2026&lt;/span>
+ &lt;!-- Adjust the date to the actual publication date of the call -->
+ &lt;span class="date">March 23, 2026&lt;/span> 
  &lt;/div>
  &lt;h2 class="h2 mb-3">
- Eclipse S-CORE v0.6.0 Milestone Released!
+ Shape the Future: Call for S-CORE Contributors &amp; Maintainers!
  &lt;/h2>
 &lt;pre>&lt;code>&amp;lt;!-- IMPORTANT: The markdown=&amp;quot;1&amp;quot; attribute ensures the content is rendered correctly --&amp;gt;
 &amp;lt;div class=&amp;quot;card-text mb-4&amp;quot; markdown=&amp;quot;1&amp;quot;&amp;gt;
 &lt;/code>&lt;/pre>
-&lt;p>We're excited to announce the third milestone release of Eclipse S-CORE (v0.6.0), the open-source automotive middleware platform developed within the Eclipse SDV Working Group!&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+&lt;p>Eclipse S-CORE is actively seeking passionate contributors and dedicated maintainers to join us in shaping the core building blocks of the software-defined vehicle stack. This is a unique opportunity to actively influence, build, and maintain an open, consistent software foundation for the automotive industry's future.&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
  &lt;section class="esc-section esc-roadmap-1-container-section">
  &lt;div class="container">
  &lt;div
@@ -1925,12 +1925,10 @@
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Conferences&amp;lt;/h5&amp;gt;
 
-
-
+ &amp;lt;!-- NEUER UPCOMING EVENT: Open Chain and Friends in Stuttgart --&amp;gt;
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
-
  &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/news/SIA_logo.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/2026_openchain_and_friends.png&amp;quot; alt=&amp;quot;Open Chain and Friends&amp;quot; /&amp;gt;
  &amp;lt;/div&amp;gt;
 
  &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
@@ -1940,28 +1938,26 @@
  &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
  &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
  &amp;lt;/span&amp;gt;
- &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;5 Feb, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;24-26 Mar, 2026&amp;lt;/span&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- SIA 2026 | Future Proofing SDV Study Day, &amp;lt;br&amp;gt; Paris, France
+ Open Chain and Friends, &amp;lt;br&amp;gt; Stuttgart, Germany
  &amp;lt;/h2&amp;gt;
  &amp;lt;p&amp;gt;
- Presenter: Björn Reistel (ETAS) &amp;lt;br&amp;gt;
- Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
+ Presenter: Björn Reistel &amp;lt;br&amp;gt;
+ Topic: Eclipse S-CORE: Open by Choice, Safe by Design.
  &amp;lt;/p&amp;gt;
  &amp;lt;a
  class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;https://www.sia.fr/evenements/404-study-day-future-proofing-sdv&amp;quot;
+ href=&amp;quot;https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026&amp;quot;
  &amp;gt;
  Read More
  &amp;lt;/a&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
- 
 
-
+ &amp;lt;!-- BESTEHENDER UPCOMING EVENT: OCX 2026 --&amp;gt;
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
-
  &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
  &amp;lt;img src=&amp;quot;images/news/OCX26.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
  &amp;lt;/div&amp;gt;
@@ -1976,10 +1972,10 @@
  &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;21-23 Apr, 2026&amp;lt;/span&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- OCX 2026 | Open Community Exceprience, &amp;lt;br&amp;gt; Brussels, Belgium
+ OCX 2026 | Open Community Experience, &amp;lt;br&amp;gt; Brussels, Belgium
  &amp;lt;/h2&amp;gt;
  &amp;lt;p&amp;gt;
- Presenter: tbd. &amp;lt;br&amp;gt;
+ Presenter: Björn Reistel &amp;lt;br&amp;gt;
  Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
  &amp;lt;/p&amp;gt;
  &amp;lt;a
@@ -1991,12 +1987,7 @@
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
  
- &amp;lt;/div&amp;gt;
-
-
-
- 
- 
+ &amp;lt;/div&amp;gt; &amp;lt;!-- /main-blog-item-card for Upcoming Conferences --&amp;gt;
 
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
@@ -2011,13 +2002,60 @@
  &amp;lt;div class=&amp;quot;col-12 col-xl-4 mt-xl-0 mt-5&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
  
-
  &amp;lt;div class=&amp;quot;top-picks-container&amp;quot;&amp;gt;
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Previous Conferences&amp;lt;/h5&amp;gt;
 
-
-
  &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
+
+ &amp;lt;!-- NEUER PREVIOUS EVENT: SDV Community Days at T-Systems --&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.eclipse-foundation.events/event/SDV-Community-Days-2026/home&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/2026_community_day_bonn.png&amp;quot; alt=&amp;quot;SDV Community Days&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;24 Feb, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;SDV Community Days at T-Systems, &amp;lt;br&amp;gt;
+ Bonn, Germany&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Philipp Ahmann, Björn Reistel &amp;lt;br&amp;gt;
+ Topic: &amp;quot;Eclipse Safe Open Vehicle Core: Introduction to latest Eclipse S-CORE Release, Current Momentum, and Outlook 2026.&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt; 
+
+ &amp;lt;!-- VERSCHOBENER EVENT: SIA 2026 --&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.sia.fr/evenements/404-study-day-future-proofing-sdv&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/SIA_logo.png&amp;quot; alt=&amp;quot;SIA 2026&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;5 Feb, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;SIA 2026 | Future Proofing SDV Study Day, &amp;lt;br&amp;gt;
+ Paris, France&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Björn Reistel (ETAS) &amp;lt;br&amp;gt;
+ Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
+
+ &amp;lt;!-- BESTEHENDE EVENTS (unverändert) --&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-community-meetup-japan-co-hosted-by-bosch-group-tickets-1540218427779&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
@@ -2041,8 +2079,6 @@
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt; 
 
-
- &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-south-korea-lg-tickets-1742261403759&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;

@@ -261,3 +261,25 @@
 .main-blog-item-card .card-text li {
   margin-bottom: 0.5rem;
 }
+
+/* --- GENERAL LINK STYLES FOR BLOG CONTENT --- */
+.main-blog-item-card .card-text a {
+  color: var(--main-primary-color, #007bff); /* Use your primary color variable or a specific hex code */
+  text-decoration: underline;
+  font-weight: 500; /* Make them slightly bolder than regular text */
+}
+
+.main-blog-item-card .card-text a:hover {
+  color: var(--main-secondary-color, #0056b3); /* A slightly different color on hover, or just darken primary */
+  text-decoration: none; /* Remove underline on hover for a modern look */
+}
+
+.main-blog-item-card .card-text a:active {
+  color: var(--main-primary-color, #004085); /* Darker active state */
+}
+
+/* Ensure the button-like links outside card-text retain their button styling */
+.main-blog-item-card > .blog-item-content > .read-more.btn {
+  /* This is correctly styled by Bootstrap classes already */
+  text-decoration: none; /* Buttons usually don't have underlines */
+}
