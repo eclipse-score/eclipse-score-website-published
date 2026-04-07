@@ -1925,37 +1925,6 @@
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Conferences&amp;lt;/h5&amp;gt;
 
- &amp;lt;!-- NEUER UPCOMING EVENT: Open Chain and Friends in Stuttgart --&amp;gt;
- &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/news/2026_openchain_and_friends.png&amp;quot; alt=&amp;quot;Open Chain and Friends&amp;quot; /&amp;gt;
- &amp;lt;/div&amp;gt;
-
- &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
- &amp;gt;
- &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/span&amp;gt;
- &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;24-26 Mar, 2026&amp;lt;/span&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- Open Chain and Friends, &amp;lt;br&amp;gt; Stuttgart, Germany
- &amp;lt;/h2&amp;gt;
- &amp;lt;p&amp;gt;
- Presenter: Björn Reistel &amp;lt;br&amp;gt;
- Topic: Eclipse S-CORE: Open by Choice, Safe by Design.
- &amp;lt;/p&amp;gt;
- &amp;lt;a
- class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026&amp;quot;
- &amp;gt;
- Read More
- &amp;lt;/a&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
-
  &amp;lt;!-- BESTEHENDER UPCOMING EVENT: OCX 2026 --&amp;gt;
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
@@ -2006,6 +1975,29 @@
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Previous Conferences&amp;lt;/h5&amp;gt;
 
  &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
+
+ &amp;lt;!-- MOVED EVENT: Open Chain and Friends in Stuttgart --&amp;gt;
+ &amp;lt;a href=&amp;quot;https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/2026_openchain_and_friends.png&amp;quot; alt=&amp;quot;Open Chain and Friends&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt; 
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;24-26 Mar, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;Open Chain and Friends, &amp;lt;br&amp;gt; Stuttgart, Germany&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Björn Reistel &amp;lt;br&amp;gt;
+ Topic: Eclipse S-CORE: Open by Choice, Safe by Design.
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
 
  &amp;lt;!-- NEUER PREVIOUS EVENT: SDV Community Days at T-Systems --&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.eclipse-foundation.events/event/SDV-Community-Days-2026/home&amp;quot;
@@ -2611,26 +2603,100 @@
 &lt;/main></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/training-modules.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/training-modules.html</guid><description>&lt;main class="main-section p-0 d-flex flex-column">
  &lt;section class="esc-pages-section nav-tabs-section">
  &lt;div class="container">
- &lt;div class="nav-tabs-wrapper">
- &lt;ul class="nav nav-tabs">
- &lt;li class="nav-item">
- &lt;a class="nav-link active" href="training-modules.html"
- >How to Collaborate&lt;/a
- >
- &lt;/li>
-&lt;pre>&lt;code> &amp;lt;li class=&amp;quot;nav-item&amp;quot;&amp;gt;
- &amp;lt;a class=&amp;quot;nav-link&amp;quot; href=&amp;quot;reference-implementation.html&amp;quot;
- &amp;gt;How to Contribute&amp;lt;/a
- &amp;gt;
- &amp;lt;/li&amp;gt; 
+ &lt;div class="row w-100 g-4">
+ &lt;div class="col-12 col-xl-6">
+ &lt;h2 class="h2 mb-3 fw-semibold"> How to get in contact with the project&lt;/h2>
+ &lt;p class="mb-2">
+ We’re a collaborative and ever-growing community of automotive
+ experts, technology partners, developers, and innovators
+ united under the Eclipse Foundation. Together, we’re shaping
+ the future of automotive software by building open, safe, and
+ scalable solutions.
+ &lt;/p> 
+ &lt;p class="max-w-100">
+ Active Contributions to the S-CORE project are the basis for getting involved. 
+ The S-CORE Project works according to the Eclipse Project Handbook and has named and elected project leads and committers 
+ (see 
+ &lt;a href="https://projects.eclipse.org/projects/automotive.score" class="read-more main-primary" target="_blank"
+ >Eclipse Safe Open Vehicle Core 
+ &lt;/a> 
+ ). &lt;br>&lt;br>The direction of the S-CORE project is discussed and decided in the project lead circle, 
+ the technical direction is created and upfront in the tech lead circle. Meeting notes are transparent via the
+&lt;pre>&lt;code> &amp;lt;a href=&amp;quot;https://github.com/orgs/eclipse-score/discussions&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;S-CORE GitHub Discussions. 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ We aim to build a safety ready full stack architecture, 
+ where components fit to each other in automotive grade Software Quality and performance. To achieve this, we follow a strict
  
- &amp;lt;li class=&amp;quot;nav-item&amp;quot;&amp;gt;
- &amp;lt;a class=&amp;quot;nav-link&amp;quot; href=&amp;quot;#&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
- &amp;lt;/li&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/score_releases/index.html#releases&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;feature roadmap and architecture 
+ &amp;lt;/a&amp;gt; 
+ and a rigid
+
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/process_description/main/index.html&amp;quot; class=&amp;quot;read-more main-primary target=&amp;quot;_blank&amp;quot;
+ &amp;gt; software development process 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;/p&amp;gt;
+
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
+ Contributions to the S-CORE project must therefore follow the technical direction of the project and the S-CORE architecture. 
+ For an introduction on how to contribute, please check out our 
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/contribute/index.html&amp;quot; class=&amp;quot;read-more main-primary target&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;How to Contribut Guideline. 
+ &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-6&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;who-we-are-content&amp;quot;&amp;gt;
  
- &amp;lt;/ul&amp;gt;
+
+ &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Project Mailing List:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;mailto:score-dev@eclipse.org&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;score-dev@eclipse.org 
+ &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
+
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Architectural Discussion:&amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;https://join.slack.com/t/sdvworkinggroup/shared_invite/zt-3c5ied1nk-Mk87s4kOX7ipcNo_VktlWg&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Join SDV's slack workspace&amp;lt;/a&amp;gt; and jump to 
+ &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;#score-project-channel-public 
+ 
+ &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
+ 
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Eclipse S-CORE Project Office Hours: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ 
+ &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Monday 13.00 - 14.00 (Weekly)
+ 
+ &amp;lt;/a&amp;gt; 
+ &amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Find all our meetings: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Open Eclipse community calendar
+ 
+ &amp;lt;/a&amp;gt; &amp;lt;br/&amp;gt; &amp;lt;br&amp;gt; 
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;General Information / Alignment regarding S-CORE as a basis for distributions &amp;amp; products: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
+ 
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
+ &amp;gt;Contact one of the project leads of Eclipse S-CORE
+ 
+ &amp;lt;/a&amp;gt; 
+ &amp;lt;/p&amp;gt;
+
+ 
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
+ 
+ 
+ &amp;lt;/div&amp;gt;
+ 
+ 
  &amp;lt;/section&amp;gt;
 
  &amp;lt;section class=&amp;quot;esc-section esc-training-modules-container-section pt-0&amp;quot;&amp;gt;
