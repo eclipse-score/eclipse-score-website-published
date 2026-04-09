@@ -149,7 +149,8 @@
   object-fit: contain;
 }
 .esc-nutshell-container,
-.esc-nutshell-section {
+.esc-nutshell-section,
+.esc-section-needed-container {
   background-color: #ffffff;
 }
 .esc-header-nutshell {
@@ -168,9 +169,7 @@
 .esc-platform-layers-container,
 .esc-platform-layers-section,
 .esc-news-section,
-.esc-news--container,
-.esc-needed-section,
-.esc-section-needed-container {
+.esc-news--container {
   background-color: #f9f2fd;
 }
 
