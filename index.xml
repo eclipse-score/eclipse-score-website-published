@@ -2604,168 +2604,165 @@
  &lt;section class="esc-pages-section nav-tabs-section">
  &lt;div class="container">
  &lt;div class="row w-100 g-4">
- &lt;div class="col-12 col-xl-6">
- &lt;h2 class="h2 mb-3 fw-semibold"> How to get in contact with the project&lt;/h2>
- &lt;p class="mb-2">
- We’re a collaborative and ever-growing community of automotive
- experts, technology partners, developers, and innovators
- united under the Eclipse Foundation. Together, we’re shaping
- the future of automotive software by building open, safe, and
- scalable solutions.
- &lt;/p> 
- &lt;p class="max-w-100">
- Active Contributions to the S-CORE project are the basis for getting involved. 
- The S-CORE Project works according to the Eclipse Project Handbook and has named and elected project leads and committers 
- (see 
- &lt;a href="https://projects.eclipse.org/projects/automotive.score" class="read-more main-primary" target="_blank"
- >Eclipse Safe Open Vehicle Core 
- &lt;/a> 
- ). &lt;br>&lt;br>The direction of the S-CORE project is discussed and decided in the project lead circle, 
- the technical direction is created and upfront in the tech lead circle. Meeting notes are transparent via the
-&lt;pre>&lt;code> &amp;lt;a href=&amp;quot;https://github.com/orgs/eclipse-score/discussions&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;S-CORE GitHub Discussions. 
- &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
-
- &amp;lt;/p&amp;gt;
- &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
- We aim to build a safety ready full stack architecture, 
- where components fit to each other in automotive grade Software Quality and performance. To achieve this, we follow a strict
- 
- &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/score_releases/index.html#releases&amp;quot; class=&amp;quot;read-more main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;feature roadmap and architecture 
- &amp;lt;/a&amp;gt; 
- and a rigid
-
- &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/process_description/main/index.html&amp;quot; class=&amp;quot;read-more main-primary target=&amp;quot;_blank&amp;quot;
- &amp;gt; software development process 
- &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
-
- &amp;lt;/p&amp;gt;
-
- &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
- Contributions to the S-CORE project must therefore follow the technical direction of the project and the S-CORE architecture. 
- For an introduction on how to contribute, please check out our 
- &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/contribute/index.html&amp;quot; class=&amp;quot;read-more main-primary target&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;How to Contribut Guideline. 
- &amp;lt;/a&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
- &amp;lt;/p&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;col-12 col-xl-6&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;who-we-are-content&amp;quot;&amp;gt;
- 
-
- &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
-
- &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Project Mailing List:&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
- &amp;lt;a href=&amp;quot;mailto:score-dev@eclipse.org&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;score-dev@eclipse.org 
- &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
-
- &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Architectural Discussion:&amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
- &amp;lt;a href=&amp;quot;https://join.slack.com/t/sdvworkinggroup/shared_invite/zt-3c5ied1nk-Mk87s4kOX7ipcNo_VktlWg&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Join SDV's slack workspace&amp;lt;/a&amp;gt; and jump to 
- &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;#score-project-channel-public 
- 
- &amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; &amp;lt;br&amp;gt; 
- 
- &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Eclipse S-CORE Project Office Hours: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
- 
- &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;Monday 13.00 - 14.00 (Weekly)
- 
- &amp;lt;/a&amp;gt; 
- &amp;lt;/p&amp;gt;
- &amp;lt;p&amp;gt;&amp;lt;br&amp;gt;
- &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Find all our meetings: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
- &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;Open Eclipse community calendar
- 
- &amp;lt;/a&amp;gt; &amp;lt;br/&amp;gt; &amp;lt;br&amp;gt; 
- &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;General Information / Alignment regarding S-CORE as a basis for distributions &amp;amp; products: &amp;lt;/strong&amp;gt; &amp;lt;br&amp;gt;
- 
- &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;read-more btn btn-primary main-primary&amp;quot; target=&amp;quot;_blank&amp;quot;
- &amp;gt;Contact one of the project leads of Eclipse S-CORE
- 
- &amp;lt;/a&amp;gt; 
- &amp;lt;/p&amp;gt;
-
- 
+ &lt;div class="col-12">
+ &lt;h2 class="h2 mb-3 fw-semibold">How to Collaborate with the Project&lt;/h2>
+ &lt;p class="mb-4">
+ We’re a growing community of automotive experts, developers, and innovators united under the Eclipse Foundation. Active contribution is the foundation of our project. Below you will find the key documents and communication channels to get you started.
+ &lt;/p>
+&lt;pre>&lt;code> &amp;lt;!-- ========== Begin Teaser Section (Restyled) ========== --&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-4 mb-5&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;User´s Guide&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;A detailed “how-to-guide” introducing core concepts and walking through application building step-by-step.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;training-modules.html&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;Read the Guide&amp;lt;/a&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
- 
- 
  &amp;lt;/div&amp;gt;
- 
- 
- &amp;lt;/section&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;Download latest release&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;Get an overview of all features and functions available in the first S-CORE release Milestones.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;View Release Notes&amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;Explore on GitHub&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;Get an overview of all features and functions available in the Eclipse S-CORE Github Repo.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://github.com/eclipse-score&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;Go to GitHub&amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;!-- ========== End Teaser Section ========== --&amp;gt;
 
- &amp;lt;section class=&amp;quot;esc-section esc-training-modules-container-section pt-0&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
- &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
- Start Your Contribution Journey
- &amp;lt;/h2&amp;gt;
- 
- &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
- Dive into the S-CORE contributor community by adhering to our guiding principles. 
- We strive for &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;impactful, efficient contributions &amp;lt;/strong&amp;gt; that evolve the project without 
- redundancy while connected to the &amp;quot;Development Workflow”.
- &amp;lt;/p&amp;gt;
- &amp;lt;p class=&amp;quot;max-w-100&amp;quot;&amp;gt;
- Learn how the stack works — from core systems to application
- support.
- &amp;lt;/p&amp;gt;
- 
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- 
- 
- &amp;lt;/div&amp;gt;
- &amp;lt;/section&amp;gt;
 
- &amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
+ &amp;lt;!-- Section: Key Documents --&amp;gt;
+ &amp;lt;h3 class=&amp;quot;h3 fw-bold mt-5 mb-4&amp;quot;&amp;gt;Key Documents &amp;amp; Guidelines&amp;lt;/h3&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;How to Contribute&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;Your starting point. This guide details the process for making contributions that align with our technical direction and architecture.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/contribute/index.html&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Read the Guideline&amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;Development Process&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;Learn about our rigid software development process, designed to ensure automotive-grade quality and performance.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/process_description/main/index.html&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;View the Process&amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-md-6 col-lg-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;card-body d-flex flex-column&amp;quot;&amp;gt;
+ &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;Roadmap &amp;amp; Architecture&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;Explore our feature roadmap and architecture to understand the technical direction and future of S-CORE.&amp;lt;/p&amp;gt;
+ &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/score_releases/index.html#releases&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;See the Roadmap&amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+
+ &amp;lt;!-- Section: Communication Channels --&amp;gt;
+ &amp;lt;h3 class=&amp;quot;h3 fw-bold mt-5 mb-4&amp;quot;&amp;gt;Communication Channels&amp;lt;/h3&amp;gt;
+ &amp;lt;ul class=&amp;quot;list-group list-group-flush&amp;quot;&amp;gt;
+ &amp;lt;li class=&amp;quot;list-group-item d-flex justify-content-between align-items-center flex-wrap gap-2&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Project Mailing List&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;small class=&amp;quot;text-muted&amp;quot;&amp;gt;For development discussions and official announcements.&amp;lt;/small&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;a href=&amp;quot;mailto:score-dev@eclipse.org&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;score-dev@eclipse.org&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;list-group-item d-flex justify-content-between align-items-center flex-wrap gap-2&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Architectural Discussion&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;small class=&amp;quot;text-muted&amp;quot;&amp;gt;Join our public Slack channel for technical conversations.&amp;lt;/small&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;#score-project-channel-public&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;list-group-item d-flex justify-content-between align-items-center flex-wrap gap-2&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;GitHub Discussions&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;small class=&amp;quot;text-muted&amp;quot;&amp;gt;Review meeting notes and participate in transparent decision-making.&amp;lt;/small&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;a href=&amp;quot;https://github.com/orgs/eclipse-score/discussions&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;View Discussions&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;list-group-item d-flex justify-content-between align-items-center flex-wrap gap-2&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;Project Office Hours&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;small class=&amp;quot;text-muted&amp;quot;&amp;gt;Weekly drop-in session. Every Monday from 13:00 - 14:00 (Europe/Berlin).&amp;lt;/small&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;a href=&amp;quot;https://calendar.google.com/calendar/u/0/embed?src=c_2ampi2bmoka3qter4dceap1d5g@group.calendar.google.com&amp;amp;ctz=Europe/Berlin&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;View Calendar&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;li class=&amp;quot;list-group-item d-flex justify-content-between align-items-center flex-wrap gap-2&amp;quot;&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;strong class=&amp;quot;fw-semibold&amp;quot;&amp;gt;General Information&amp;lt;/strong&amp;gt;&amp;lt;br&amp;gt;
+ &amp;lt;small class=&amp;quot;text-muted&amp;quot;&amp;gt;For questions about distributions or products based on S-CORE.&amp;lt;/small&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Contact Project Leads&amp;lt;/a&amp;gt;
+ &amp;lt;/li&amp;gt;
+ &amp;lt;/ul&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;
+
+
+
+&amp;lt;section class=&amp;quot;esc-section esc-communities-section&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
  &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3 text-white&amp;quot;&amp;gt;Our Guiding Principles&amp;lt;/h2&amp;gt;
  &amp;lt;p&amp;gt;
- S-CORE is built upon core principles that champion inclusivity, efficiency, and innovation within the open source automotive software community. 
- Our collaborative framework welcomes contributions from everyone, paving the way for more advanced and robust solutions. 
+ S-CORE is built upon core principles that champion inclusivity, efficiency, and innovation within the open source automotive software community.
+ Our collaborative framework welcomes contributions from everyone, paving the way for more advanced and robust solutions.
  Below are the guiding principles that steer the S-CORE ecosystem
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;communities-content mt-5&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
- &amp;lt;img
- src=&amp;quot;images/campus/01_community.svg&amp;quot;
- alt=&amp;quot;Evolve, Everybody Can Join:&amp;quot;
- /&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/01_community.svg&amp;quot; alt=&amp;quot;Evolve, Everybody Can Join:&amp;quot; /&amp;gt;
  &amp;lt;h3&amp;gt;Evolve, Everybody Can Join:&amp;lt;/h3&amp;gt;
  &amp;lt;p&amp;gt;
- We recognize the power of collective intelligence and the strength of diverse contributions. 
+ We recognize the power of collective intelligence and the strength of diverse contributions.
  Everyone is welcome to participate, use, and join S-CORE, fostering a vibrant community united by shared goals and mutual growth.
-
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
- &amp;lt;img
- src=&amp;quot;images/campus/02_no_reimpl.svg&amp;quot;
- alt=&amp;quot;No Re-Implementation:&amp;quot;
- /&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/02_no_reimpl.svg&amp;quot; alt=&amp;quot;No Re-Implementation:&amp;quot; /&amp;gt;
  &amp;lt;h3&amp;gt;No Re-Implementation:&amp;lt;/h3&amp;gt;
  &amp;lt;p&amp;gt;
- Our approach leverages existing solutions to optimize development processes. 
+ Our approach leverages existing solutions to optimize development processes.
  By building on established findings and methodologies, we avoid redundancy, focusing our efforts on crafting innovative and efficient solutions.
-
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
- &amp;lt;img
- src=&amp;quot;images/campus/03_working_model.svg&amp;quot;
- alt=&amp;quot;Working Model - Shift Left:&amp;quot;
- /&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/03_working_model.svg&amp;quot; alt=&amp;quot;Working Model - Shift Left:&amp;quot; /&amp;gt;
  &amp;lt;h3&amp;gt;Working Model - Shift Left:&amp;lt;/h3&amp;gt;
  &amp;lt;p&amp;gt;
- We adopt a proactive development model that prioritizes early testing and integration, 
+ We adopt a proactive development model that prioritizes early testing and integration,
  ensuring high quality and minimizing risks throughout the software lifecycle.
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
@@ -2773,32 +2770,28 @@
  &amp;lt;img src=&amp;quot;images/campus/04_eco_system.svg&amp;quot; alt=&amp;quot;S-CORE Ecosystem:&amp;quot; /&amp;gt;
  &amp;lt;h3&amp;gt;S-CORE Ecosystem:&amp;lt;/h3&amp;gt;
  &amp;lt;p&amp;gt;
- Our ecosystem thrives on collaboration and co-creation across various stakeholders, including universities, 
+ Our ecosystem thrives on collaboration and co-creation across various stakeholders, including universities,
  industry partners, and EU commissions. We encourage dynamic contributions and collective efforts to achieve shared objectives.
-
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;community-card&amp;quot;&amp;gt;
- &amp;lt;img
- src=&amp;quot;images/campus/05_engage.svg&amp;quot;
- alt=&amp;quot;Engage and Get Involved:&amp;quot;
- /&amp;gt;
+ &amp;lt;img src=&amp;quot;images/campus/05_engage.svg&amp;quot; alt=&amp;quot;Engage and Get Involved:&amp;quot; /&amp;gt;
  &amp;lt;h3&amp;gt;Engage and Get Involved:&amp;lt;/h3&amp;gt;
  &amp;lt;p&amp;gt;
- Join us on this transformative journey and explore opportunities to contribute to S-CORE's evolution. Visit our Get Involved pages for more details, 
+ Join us on this transformative journey and explore opportunities to contribute to S-CORE's evolution. Visit our Get Involved pages for more details,
  and learn about the S-CORE structure by browsing the About Us section for comprehensive insights.
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
- &amp;lt;/section&amp;gt;
+&amp;lt;/section&amp;gt;
 
- &amp;lt;section class=&amp;quot;esc-section esc-steering-committees-section&amp;quot;&amp;gt;
+&amp;lt;section class=&amp;quot;esc-section esc-steering-committees-section&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;pages-title&amp;quot;&amp;gt;
  &amp;lt;h2 class=&amp;quot;h2 fw-bold mb-3&amp;quot;&amp;gt;Broaden Your Impact Beyond Code&amp;lt;/h2&amp;gt;
  &amp;lt;p&amp;gt;
- Become actively involved with S-CORE — we are committed to continuous improvement through open collaboration. 
+ Become actively involved with S-CORE — we are committed to continuous improvement through open collaboration.
  Engage with a community of innovators and explore opportunities to contribute to ongoing projects and development processes.
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
@@ -2809,61 +2802,99 @@
  Community Participation
  &amp;lt;/h4&amp;gt;
  &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
- 
  &amp;lt;/div&amp;gt;
  &amp;lt;p&amp;gt;
- Extend your influence beyond code. Engage with the community through participation, 
+ Extend your influence beyond code. Engage with the community through participation,
  and contribute to various initiatives that support S-CORE's evolution.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
  Ways to Participate&amp;lt;br&amp;gt;
  Documentation enhancements improve project understanding and usability. &amp;lt;br&amp;gt;
  Event Participation: Involve yourself in community events, discussions and workshops.&amp;lt;br&amp;gt;
  Specialized Working Groups: Bring in your specific knowledge on processes, safety etc.&amp;lt;br&amp;gt;
  Feedback and Testing: Offer insights within the for project improvement. &amp;lt;br&amp;gt;
-
  &amp;lt;/p&amp;gt;
-
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;col-12 col-md-6&amp;quot;&amp;gt;
  &amp;lt;h4 class=&amp;quot;h4 fw-bold&amp;quot;&amp;gt;
  Community Engagement
  &amp;lt;/h4&amp;gt;
  &amp;lt;div class=&amp;quot;steering-item-img mb-3&amp;quot;&amp;gt;
- 
  &amp;lt;/div&amp;gt;
  &amp;lt;p&amp;gt;
  Connect and Collaborate
- Engage in lively discussions within the S-CORE community, sharing insights and collaboratively tackling challenges. 
+ Engage in lively discussions within the S-CORE community, sharing insights and collaboratively tackling challenges.
  The community fosters innovation and collective growth. &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
  A Vibrant Hub of Interaction&amp;lt;br&amp;gt;
  Join forums and contribute to dialogue.&amp;lt;br&amp;gt;
  Engagement Platforms&amp;lt;br&amp;gt;
  Forums and Channels: Discuss topics, share knowledge, and evolve solutions.&amp;lt;br&amp;gt;
  Feedback Mechanism: Receive updates and contribute insights to active projects.&amp;lt;br&amp;gt;
-
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
- &amp;lt;/section&amp;gt;
+&amp;lt;/section&amp;gt;
 
- &amp;lt;section class=&amp;quot;esc-section esc-learning-tutorials-container-section&amp;quot;&amp;gt;
- 
- &amp;lt;/div&amp;gt;
- &amp;lt;/section&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;section>&lt;br>&lt;br>&lt;/section>
- &lt;section class="esc-section esc-stay-connected-container-section pt-0">
- &lt;div class="container">
- &lt;div class="stay-connected-content">
- &lt;div class="pages-title mb-4">
- &lt;h2 class="h2 mb-3 fw-semibold text-capitalize">
+&amp;lt;section class=&amp;quot;esc-section esc-learning-tutorials-container-section&amp;quot;&amp;gt;
+&amp;lt;/section&amp;gt;
+
+&amp;lt;section&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/section&amp;gt;
+
+&amp;lt;section class=&amp;quot;esc-section esc-stay-connected-container-section pt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;stay-connected-content&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;pages-title mb-4&amp;quot;&amp;gt;
+ &amp;lt;h2 class=&amp;quot;h2 mb-3 fw-semibold text-capitalize&amp;quot;&amp;gt;
  Stay Connected with S-CORE
- &lt;/h2>
- &lt;p class="max-w-65">
+ &amp;lt;/h2&amp;gt;
+ &amp;lt;p class=&amp;quot;max-w-65&amp;quot;&amp;gt;
  Join the conversation, access exclusive resources, and follow us
  for the latest updates.
- &lt;/p></description></item><item><title>S-CORE</title><link>https://eclipse.dev/score/blog-details.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/blog-details.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;row g-3 mt-4 px-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://projects.eclipse.org/projects/automotive.score/who&amp;quot; class=&amp;quot;&amp;quot; download&amp;gt;&amp;lt;img src=&amp;quot;images/campus/share.svg&amp;quot; alt=&amp;quot;Join Icon&amp;quot; width=&amp;quot;48&amp;quot; class=&amp;quot;me-3 icon&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Join S-CORE&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-0&amp;quot;&amp;gt;Connect With Us!&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;news.html&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;images/campus/document-download.svg&amp;quot; alt=&amp;quot;Download Icon&amp;quot; width=&amp;quot;48&amp;quot; class=&amp;quot;me-3 icon&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Stay up to date!&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-2&amp;quot;&amp;gt;Read our latest news!&amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;col-12 col-xl-4&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;connected-card d-flex align-items-center justify-content-start h-100&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;me-3 d-flex gap-2&amp;quot;&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.linkedin.com/showcase/software-defined-vehicle/posts/?feedView=all&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+ &amp;lt;img class=&amp;quot;icon&amp;quot; src=&amp;quot;images/campus/mage_linkedin.svg&amp;quot; alt=&amp;quot;LinkedIn&amp;quot; width=&amp;quot;48&amp;quot; /&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;a href=&amp;quot;https://sdvworkinggroup.slack.com/archives/C083Z4VL90B&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;
+ &amp;lt;img class=&amp;quot;icon&amp;quot; src=&amp;quot;images/campus/slack.svg&amp;quot; alt=&amp;quot;Slack&amp;quot; width=&amp;quot;48&amp;quot; /&amp;gt;
+ &amp;lt;/a&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-1&amp;quot;&amp;gt;Follow Us&amp;lt;/h5&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted mb-0&amp;quot;&amp;gt;
+ Stay in the loop on all platforms!
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/div&amp;gt;
+&amp;lt;/section&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;/main></description></item><item><title>S-CORE</title><link>https://eclipse.dev/score/blog-details.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/blog-details.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
  &lt;section
  class="esc-section esc-news-details-container-section min-vh-100"
  >
