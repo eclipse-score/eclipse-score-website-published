@@ -428,6 +428,11 @@
  >
  &lt;div class="container">
  &lt;div class="row w-100 g-4">
+ &lt;efsc-collection pagesize="2" autoscroll="true">
+ &lt;efsc-event-filters>&lt;/efsc-event-filters>
+ &lt;efsc-event-list publishtarget="sdv">&lt;/efsc-event-list>
+ &lt;efsc-pagination maxvisible="5" justify="center">&lt;/efsc-pagination>
+ &lt;/efsc-collection>
  &lt;div class="col-12 col-xl-8 gap-3 mt-0">
  &lt;div class="d-flex flex-column gap-3">
 &lt;!-- ========== START: S-CORE 0.7.0 Release Card (English Version) ========== -->
