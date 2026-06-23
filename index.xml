@@ -428,13 +428,16 @@
  >
  &lt;div class="container">
  &lt;div class="row w-100 g-4">
- &lt;efsc-collection pagesize="2" autoscroll="true">
- &lt;efsc-event-filters>&lt;/efsc-event-filters>
- &lt;efsc-event-list publishtarget="sdv">&lt;/efsc-event-list>
- &lt;efsc-pagination maxvisible="5" justify="center">&lt;/efsc-pagination>
- &lt;/efsc-collection>
- &lt;div class="col-12 col-xl-8 gap-3 mt-0">
- &lt;div class="d-flex flex-column gap-3">
+&lt;pre>&lt;code> &amp;lt;!-- Dynamische Event-Datenbank --&amp;gt;
+ &amp;lt;efsc-collection pagesize=&amp;quot;2&amp;quot; autoscroll=&amp;quot;true&amp;quot;&amp;gt;
+ &amp;lt;efsc-event-filters&amp;gt;&amp;lt;/efsc-event-filters&amp;gt;
+ &amp;lt;efsc-event-list publishtarget=&amp;quot;sdv&amp;quot;&amp;gt;&amp;lt;/efsc-event-list&amp;gt;
+ &amp;lt;efsc-pagination maxvisible=&amp;quot;5&amp;quot; justify=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;/efsc-pagination&amp;gt;
+ &amp;lt;/efsc-collection&amp;gt;
+
+ &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
+&lt;/code>&lt;/pre>
 &lt;!-- ========== START: S-CORE 0.7.0 Release Card (English Version) ========== -->
 &lt;div class="main-blog-item-card d-flex flex-column gap-3">
  &lt;div class="blog-item-content">
@@ -1849,24 +1852,31 @@
  &lt;/div>
  &lt;/div>
  &lt;/section>
-&lt;pre>&lt;code> &amp;lt;section
- class=&amp;quot;esc-section esc-news-container-section pt-0 min-vh-100 mt-4&amp;quot;
- &amp;gt;
- &amp;lt;div class=&amp;quot;container&amp;quot;&amp;gt;
+ &lt;section
+ class="esc-section esc-news-container-section pt-0 min-vh-100 mt-4"
+ >
+ &lt;div class="container">
+&lt;pre>&lt;code> &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
  
- &amp;lt;div class=&amp;quot;row w-100 g-4&amp;quot;&amp;gt;
+ &amp;lt;!-- ========== START: DYNAMISCHE ECLIPSE FOUNDATION EVENT-DATENBANK ========== --&amp;gt;
+ &amp;lt;efsc-collection pagesize=&amp;quot;2&amp;quot; autoscroll=&amp;quot;true&amp;quot;&amp;gt;
+ &amp;lt;efsc-event-filters&amp;gt;&amp;lt;/efsc-event-filters&amp;gt;
+ &amp;lt;efsc-event-list publishtarget=&amp;quot;sdv&amp;quot;&amp;gt;&amp;lt;/efsc-event-list&amp;gt;
+ &amp;lt;efsc-pagination maxvisible=&amp;quot;5&amp;quot; justify=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;/efsc-pagination&amp;gt;
+ &amp;lt;/efsc-collection&amp;gt;
+ &amp;lt;!-- ========== END: DYNAMISCHE ECLIPSE FOUNDATION EVENT-DATENBANK ========== --&amp;gt;
+
  &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
  
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Conferences&amp;lt;/h5&amp;gt;
-
+ 
  &amp;lt;!-- BESTEHENDER UPCOMING EVENT: OCX 2026 --&amp;gt;
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
  &amp;lt;img src=&amp;quot;images/news/OCX26.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
  &amp;lt;/div&amp;gt;
-
  &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
  &amp;lt;div
  class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
@@ -1893,7 +1903,6 @@
  &amp;lt;/div&amp;gt;
  
  &amp;lt;/div&amp;gt; &amp;lt;!-- /main-blog-item-card for Upcoming Conferences --&amp;gt;
-
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
  &amp;lt;a
@@ -1909,9 +1918,7 @@
  
  &amp;lt;div class=&amp;quot;top-picks-container&amp;quot;&amp;gt;
  &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Previous Conferences&amp;lt;/h5&amp;gt;
-
  &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
-
  &amp;lt;!-- MOVED EVENT: Open Chain and Friends in Stuttgart --&amp;gt;
  &amp;lt;a href=&amp;quot;https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -1934,7 +1941,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt;
-
  &amp;lt;!-- NEUER PREVIOUS EVENT: SDV Community Days at T-Systems --&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.eclipse-foundation.events/event/SDV-Community-Days-2026/home&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -1958,7 +1964,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt; 
-
  &amp;lt;!-- VERSCHOBENER EVENT: SIA 2026 --&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.sia.fr/evenements/404-study-day-future-proofing-sdv&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -1982,7 +1987,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt;
-
  &amp;lt;!-- BESTEHENDE EVENTS (unverändert) --&amp;gt;
  &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-community-meetup-japan-co-hosted-by-bosch-group-tickets-1540218427779&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -2006,7 +2010,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt; 
-
  &amp;lt;a href=&amp;quot;https://www.eventbrite.com/e/eclipse-sdv-south-korea-lg-tickets-1742261403759&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
@@ -2054,7 +2057,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt; 
-
  &amp;lt;a
  href=&amp;quot;https://www.vdi-wissensforum.de/eliv/&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -2078,7 +2080,6 @@
  &amp;lt;/p&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/a&amp;gt; 
-
 
  &amp;lt;a
  href=&amp;quot;#&amp;quot;
@@ -2553,7 +2554,7 @@
  &amp;lt;h5 class=&amp;quot;card-title fw-bold&amp;quot;&amp;gt;User´s Guide&amp;lt;/h5&amp;gt;
  &amp;lt;p class=&amp;quot;card-text&amp;quot;&amp;gt;A detailed “how-to-guide” introducing core concepts and walking through application building step-by-step.&amp;lt;/p&amp;gt;
  &amp;lt;div class=&amp;quot;mt-auto pt-3&amp;quot;&amp;gt;
- &amp;lt;a href=&amp;quot;training-modules.html&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;Read the Guide&amp;lt;/a&amp;gt;
+ &amp;lt;a href=&amp;quot;https://eclipse-score.github.io/score/main/users_guide/index.html&amp;quot; target=&amp;quot;_blank&amp;quot; class=&amp;quot;btn&amp;quot; style=&amp;quot;background-color: #6a1b9a; color: white; border-color: #6a1b9a;&amp;quot;&amp;gt;Read the Guide&amp;lt;/a&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;/div&amp;gt;
