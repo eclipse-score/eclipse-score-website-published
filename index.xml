@@ -438,20 +438,17 @@
  &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
 &lt;/code>&lt;/pre>
-&lt;!-- ========== START: S-CORE 0.7.0 Release Card (English Version) ========== -->
+&lt;!-- ========== START: S-CORE v0.8 Release Gate News ========== -->
 &lt;div class="main-blog-item-card d-flex flex-column gap-3">
  &lt;div class="blog-item-content">
  &lt;div class="top-pick-date d-flex align-items-center gap-2 mb-2">
- &lt;span class="icon d-flex align-items-center">
- &lt;img src="images/icons/calendar.svg" alt="Calendar Icon" />
- &lt;/span>
- &lt;span class="date">May 12, 2026&lt;/span>
+ &lt;span class="date">July 28, 2026&lt;/span>
  &lt;/div>
  &lt;h2 class="h2 mb-3">
- Eclipse S-CORE 0.7 is here!
+ Eclipse S-CORE has reached release gate v0.8!
  &lt;/h2>
  &lt;div class="card-text mb-4" markdown="1">
-&lt;p>The Eclipse Safe Open Vehicle Core (S-CORE) community is happy to announce the release of version 0.7.0. This significant update introduces a host of new features, enhancements, and stability improvements, reinforcing our commitment to providing an open and safe platform for the next generation of vehicle software.&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
+&lt;p>This milestone raises the bar for what every module in scope for v1.0 has to demonstrate: complete, reviewed requirements and architecture documentation, including the safety artifacts that some modules had previously been able to defer. Meeting that bar is a multi-release effort, and v0.8 marks the point where the members committed to it project-wide.&lt;/p></description></item><item><title>Eclipse S-CORE</title><link>https://eclipse.dev/score/docs.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>webdev@eclipse-foundation.org (Eclipse Foundation)</author><guid>https://eclipse.dev/score/docs.html</guid><description>&lt;main class="main-section p-0 min-vh-100 d-flex flex-column">
  &lt;section class="esc-section esc-roadmap-1-container-section">
  &lt;div class="container">
  &lt;div
