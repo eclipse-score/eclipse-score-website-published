@@ -428,14 +428,7 @@
  >
  &lt;div class="container">
  &lt;div class="row w-100 g-4">
-&lt;pre>&lt;code> &amp;lt;!-- Dynamische Event-Datenbank --&amp;gt;
- &amp;lt;efsc-collection pagesize=&amp;quot;2&amp;quot; autoscroll=&amp;quot;true&amp;quot;&amp;gt;
- &amp;lt;efsc-event-filters&amp;gt;&amp;lt;/efsc-event-filters&amp;gt;
- &amp;lt;efsc-event-list publishtarget=&amp;quot;sdv&amp;quot;&amp;gt;&amp;lt;/efsc-event-list&amp;gt;
- &amp;lt;efsc-pagination maxvisible=&amp;quot;5&amp;quot; justify=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;/efsc-pagination&amp;gt;
- &amp;lt;/efsc-collection&amp;gt;
-
- &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
+&lt;pre>&lt;code> &amp;lt;div class=&amp;quot;col-12 col-xl-8 gap-3 mt-0&amp;quot;&amp;gt;
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
 &lt;/code>&lt;/pre>
 &lt;!-- ========== START: S-CORE v0.8 Release Gate News ========== -->
@@ -2111,7 +2104,7 @@
  &lt;a class="nav-link active" href="press_releases.html">Press Releases&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
- &lt;a class="nav-link" href="articles.html">Articles &amp; Events&lt;/a>
+ &lt;a class="nav-link" href="articles.html">Articles &amp; News&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link" href="townhalls.html">Townhalls&lt;/a>
@@ -2460,7 +2453,7 @@
  &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
- &lt;a class="nav-link" href="articles.html">Articles &amp; Events&lt;/a>
+ &lt;a class="nav-link" href="articles.html">Articles &amp; News&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link active" href="townhalls.html">Townhalls&lt;/a>
