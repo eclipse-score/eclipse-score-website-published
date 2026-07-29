@@ -408,7 +408,7 @@
  &lt;div class="nav-tabs-wrapper">
  &lt;ul class="nav nav-tabs">
  &lt;li class="nav-item">
- &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;a class="nav-link" href="news.html">Events&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
@@ -1834,7 +1834,7 @@
  &lt;div class="nav-tabs-wrapper">
  &lt;ul class="nav nav-tabs">
  &lt;li class="nav-item">
- &lt;a class="nav-link active" href="news.html">Conferences&lt;/a>
+ &lt;a class="nav-link active" href="news.html">Events&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
@@ -1867,39 +1867,8 @@
  &amp;lt;div class=&amp;quot;d-flex flex-column gap-3&amp;quot;&amp;gt;
  
  &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Conferences&amp;lt;/h5&amp;gt;
- 
- &amp;lt;!-- BESTEHENDER UPCOMING EVENT: OCX 2026 --&amp;gt;
- &amp;lt;div class=&amp;quot;main-blog-item-card d-flex flex-column gap-3&amp;quot;&amp;gt;
- &amp;lt;div class=&amp;quot;blog-img d-flex align-items-center justify-content-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/news/OCX26.png&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;div class=&amp;quot;blog-item-content&amp;quot;&amp;gt;
- &amp;lt;div
- class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
- &amp;gt;
- &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
- &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
- &amp;lt;/span&amp;gt;
- &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;21-23 Apr, 2026&amp;lt;/span&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;h2 class=&amp;quot;h2 mb-3&amp;quot;&amp;gt;
- OCX 2026 | Open Community Experience, &amp;lt;br&amp;gt; Brussels, Belgium
- &amp;lt;/h2&amp;gt;
- &amp;lt;p&amp;gt;
- Presenter: Björn Reistel &amp;lt;br&amp;gt;
- Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
- &amp;lt;/p&amp;gt;
- &amp;lt;a
- class=&amp;quot;read-more btn btn-primary main-primary mt-4 d-inline-block text-center&amp;quot;
- href=&amp;quot;https://www.ocxconf.org/event/2026/summary&amp;quot;
- &amp;gt;
- Read More
- &amp;lt;/a&amp;gt;
- &amp;lt;/div&amp;gt;
- &amp;lt;/div&amp;gt;
- 
- &amp;lt;/div&amp;gt; &amp;lt;!-- /main-blog-item-card for Upcoming Conferences --&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Upcoming Events (other than Eclipse)&amp;lt;/h5&amp;gt;
+ &amp;lt;/div&amp;gt; &amp;lt;!-- /main-blog-item-card for Upcoming Events (other than Eclipse) --&amp;gt;
  &amp;lt;/div&amp;gt;
  &amp;lt;div class=&amp;quot;text-center mt-3&amp;quot;&amp;gt;
  &amp;lt;a
@@ -1914,8 +1883,30 @@
  &amp;lt;div class=&amp;quot;main-search-top-picks-card d-flex flex-column gap-4&amp;quot;&amp;gt;
  
  &amp;lt;div class=&amp;quot;top-picks-container&amp;quot;&amp;gt;
- &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Previous Conferences&amp;lt;/h5&amp;gt;
+ &amp;lt;h5 class=&amp;quot;h5 fw-semibold mb-3&amp;quot;&amp;gt;Past Events (other than Eclipse)&amp;lt;/h5&amp;gt;
  &amp;lt;aside class=&amp;quot;top-picks-our-blogs&amp;quot;&amp;gt;
+ &amp;lt;!-- MOVED EVENT: OCX 2026 --&amp;gt;
+ &amp;lt;a href=&amp;quot;https://www.ocxconf.org/event/2026/summary&amp;quot;
+ class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-img&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/news/OCX26.png&amp;quot; alt=&amp;quot;OCX 2026&amp;quot; /&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;div class=&amp;quot;top-pick-content&amp;quot;&amp;gt;
+ &amp;lt;div
+ class=&amp;quot;top-pick-date d-flex align-items-center gap-2 mb-2&amp;quot;
+ &amp;gt;
+ &amp;lt;span class=&amp;quot;icon d-flex align-items-center&amp;quot;&amp;gt;
+ &amp;lt;img src=&amp;quot;images/icons/calendar.svg&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt;
+ &amp;lt;/span&amp;gt;
+ &amp;lt;span class=&amp;quot;date&amp;quot;&amp;gt;21-23 Apr, 2026&amp;lt;/span&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;h3&amp;gt;OCX 2026 | Open Community Experience, &amp;lt;br&amp;gt; Brussels, Belgium&amp;lt;/h3&amp;gt;
+ &amp;lt;p class=&amp;quot;text-muted&amp;quot;&amp;gt;
+ Presenter: Björn Reistel &amp;lt;br&amp;gt;
+ Topic: S-CORE | Background, Status and Insights to S-CORE 0.5 &amp;quot;Certifiable&amp;quot;
+ &amp;lt;/p&amp;gt;
+ &amp;lt;/div&amp;gt;
+ &amp;lt;/a&amp;gt;
  &amp;lt;!-- MOVED EVENT: Open Chain and Friends in Stuttgart --&amp;gt;
  &amp;lt;a href=&amp;quot;https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026&amp;quot;
  class=&amp;quot;top-pick-item d-flex align-items-start gap-3&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;
@@ -2114,7 +2105,7 @@
  &lt;div class="nav-tabs-wrapper">
  &lt;ul class="nav nav-tabs">
  &lt;li class="nav-item">
- &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;a class="nav-link" href="news.html">Events&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link active" href="press_releases.html">Press Releases&lt;/a>
@@ -2463,7 +2454,7 @@
  &lt;div class="nav-tabs-wrapper">
  &lt;ul class="nav nav-tabs">
  &lt;li class="nav-item">
- &lt;a class="nav-link" href="news.html">Conferences&lt;/a>
+ &lt;a class="nav-link" href="news.html">Events&lt;/a>
  &lt;/li>
  &lt;li class="nav-item">
  &lt;a class="nav-link" href="press_releases.html">Press Releases&lt;/a>
